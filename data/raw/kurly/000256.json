@@ -1,0 +1,2748 @@
+{
+  "search_keyword": "파프리카",
+  "ingredients": [
+    "2가지색 파프리카",
+    "노랑 파프리카",
+    "빨강 파프리카",
+    "청파프리카",
+    "파프리카",
+    "홍파프리카",
+    "황파프리카"
+  ],
+  "response": {
+    "success": true,
+    "message": null,
+    "data": {
+      "topSections": [
+        {
+          "view": {
+            "sectionCode": "RELATED_KEYWORD",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              "트리벨리",
+              "오이",
+              "피망",
+              "노란파프리카",
+              "유기농 파프리카",
+              "파프리카 1개",
+              "초록 파프리카",
+              "파프리카 큐브",
+              "이유식 파프리카"
+            ]
+          }
+        }
+      ],
+      "listSections": [
+        {
+          "view": {
+            "sectionCode": "PRODUCT_LIST",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "no": 5030557,
+                "name": "[KF365] 파프리카 2입",
+                "shortDescription": "믿고 먹을 수 있는 상품을 합리적인 가격에, KF365 ",
+                "listImageUrl": "https://product-image.kurly.com/product/image/29aa7f5d-da54-4956-8355-8072d1ae661e.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/29aa7f5d-da54-4956-8355-8072d1ae661e.jpg",
+                "salesPrice": 3690,
+                "discountedPrice": 2690,
+                "discountRate": 27.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 1,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5065494,
+                "name": "[팜송] 파프리카 4입",
+                "shortDescription": "달달 아삭 맛있는 파프리카를 대용량으로 ",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1609900940181l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1609900940181l0.jpg",
+                "salesPrice": 5990,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 2,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5056795,
+                "name": "미니 파프리카 200g",
+                "shortDescription": "아담하고 알록달록한",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/165303830429l0.jpeg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/165303830429l0.jpeg",
+                "salesPrice": 3490,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 3,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000178619,
+                "name": "[제각각] 파프리카 4-5입",
+                "shortDescription": "울퉁불퉁해서 더 매력적인",
+                "listImageUrl": "https://product-image.kurly.com/product/image/6c100020-8e84-4210-954c-beda1445d00e.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/6c100020-8e84-4210-954c-beda1445d00e.jpg",
+                "salesPrice": 5990,
+                "discountedPrice": 4990,
+                "discountRate": 16.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "최저가도전",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  },
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "최저가도전",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  },
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 4,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5097979,
+                "name": "GAP 트리벨리 파프리카 400g",
+                "shortDescription": "알록달록 달큰한 이색 파프리카",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1636349389244l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1636349389244l0.jpg",
+                "salesPrice": 5290,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "11",
+                    "name": "희소가치 프로젝트",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "BC&우리카드 프로모션",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "BC&우리카드 프로모션",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 5,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1001335436,
+                "name": "[팜송] 파프리카 1kg (7-9입)",
+                "shortDescription": "싱그럽게 물든 파프리카",
+                "listImageUrl": "https://product-image.kurly.com/product/image/1018c559-b6b1-47b9-bf41-6f7279d8be3e.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/1018c559-b6b1-47b9-bf41-6f7279d8be3e.jpg",
+                "salesPrice": 8990,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 6,
+                "reviewCount": "756",
+                "shortUrl": null
+              },
+              {
+                "no": 1001417009,
+                "name": "[바름팜] 철원 파프리카 (2개입)",
+                "shortDescription": "단단하게 여문 달큰함",
+                "listImageUrl": "https://product-image.kurly.com/product/image/7f471578-4d5c-4cd4-ac68-239373fe8935.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/7f471578-4d5c-4cd4-ac68-239373fe8935.jpg",
+                "salesPrice": 4490,
+                "discountedPrice": 3490,
+                "discountRate": 22.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 7,
+                "reviewCount": "243",
+                "shortUrl": null
+              },
+              {
+                "no": 1000107844,
+                "name": "트리벨리 파프리카 (2~3입)",
+                "shortDescription": "과일 못지 않은 아삭한 단맛",
+                "listImageUrl": "https://product-image.kurly.com/product/image/ea594250-7b34-44bb-83fa-19125f49d191.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ea594250-7b34-44bb-83fa-19125f49d191.jpg",
+                "salesPrice": 3190,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 8,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000383154,
+                "name": "[바름팜] 간편 파프리카 220g",
+                "shortDescription": "씨와 꼭지까지 깔끔하게 발라낸",
+                "listImageUrl": "https://product-image.kurly.com/product/image/40f32843-23d3-4ad4-b279-e8668a156faa.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/40f32843-23d3-4ad4-b279-e8668a156faa.jpg",
+                "salesPrice": 6190,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 9,
+                "reviewCount": "901",
+                "shortUrl": null
+              },
+              {
+                "no": 1002169544,
+                "name": "스테비아 미니 파프리카 250g",
+                "shortDescription": "진한 달콤함을 머금은 파프리카",
+                "listImageUrl": "https://product-image.kurly.com/product/image/a03df95c-585e-42d1-af24-f6dfe642af14.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a03df95c-585e-42d1-af24-f6dfe642af14.jpg",
+                "salesPrice": 9990,
+                "discountedPrice": 9290,
+                "discountRate": 7.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 10,
+                "reviewCount": "25",
+                "shortUrl": null
+              },
+              {
+                "no": 5047702,
+                "name": "[라치나타] 스모크 파프리카 파우더 핫",
+                "shortDescription": "훈연향을 입은 스페인 향신료",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1579078024633l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1579078024633l0.jpg",
+                "salesPrice": 20980,
+                "discountedPrice": 20980,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 11,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1002238462,
+                "name": "[허브&스파이스마켓] 훈연 파프리카 시즈닝 50g",
+                "shortDescription": "훈연 파프리카시즈닝은 양식, 바비큐는 물론 한식이나 에어프라이어 요리까지 치트키처럼 사용할 수 있는 만능 스파이스입니다",
+                "listImageUrl": "https://product-image.kurly.com/product/image/efecdf58-690d-4dc3-acba-a6ab6efe8d23.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/efecdf58-690d-4dc3-acba-a6ab6efe8d23.jpg",
+                "salesPrice": 4480,
+                "discountedPrice": 4480,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 12,
+                "reviewCount": "15",
+                "shortUrl": null
+              },
+              {
+                "no": 1002105070,
+                "name": "[허브&스파이스마켓] 파프리카 시즈닝 50g",
+                "shortDescription": "간편하게 더하는 은은한 감칠맛",
+                "listImageUrl": "https://product-image.kurly.com/product/image/ed944be8-8dfe-4602-b4db-1b834604d04f.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ed944be8-8dfe-4602-b4db-1b834604d04f.jpg",
+                "salesPrice": 3480,
+                "discountedPrice": 3480,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 13,
+                "reviewCount": "89",
+                "shortUrl": null
+              },
+              {
+                "no": 1000677897,
+                "name": "[치퀼린] 훈제 파프리카 파우더 75g",
+                "shortDescription": "훈연 향을 살리는 만능 파우더 ",
+                "listImageUrl": "https://product-image.kurly.com/product/image/20871526-fac9-48c3-ad42-103782dc0861.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/20871526-fac9-48c3-ad42-103782dc0861.jpg",
+                "salesPrice": 19900,
+                "discountedPrice": 18905,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 14,
+                "reviewCount": "338",
+                "shortUrl": null
+              },
+              {
+                "no": 1001945472,
+                "name": "[욘카] 아이바르  소스 2종 (파프리카 소스) ",
+                "shortDescription": "(MD추천) 발칸반도에서 즐겨 먹는 구운 빨간 파프리카와 가지를 주재료로 만든 전통 채소 소스",
+                "listImageUrl": "https://product-image.kurly.com/product/image/e1618387-59ce-462b-9467-8e949379893d.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/e1618387-59ce-462b-9467-8e949379893d.jpg",
+                "salesPrice": 6980,
+                "discountedPrice": 6282,
+                "discountRate": 10.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 15,
+                "reviewCount": "18",
+                "shortUrl": null
+              },
+              {
+                "no": 1000761272,
+                "name": "[목우촌] 뽀로로와 친구들 파프리카 라운드햄 460g",
+                "shortDescription": "콕콕 박힌 파프리카 알갱이",
+                "listImageUrl": "https://product-image.kurly.com/product/image/89f813b2-3d95-46be-9a1f-4c0ceeb44584.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/89f813b2-3d95-46be-9a1f-4c0ceeb44584.jpg",
+                "salesPrice": 7980,
+                "discountedPrice": 6780,
+                "discountRate": 15.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 16,
+                "reviewCount": "645",
+                "shortUrl": null
+              },
+              {
+                "no": 5098975,
+                "name": "[펭귄] 코즈렌미스 로스티트 페퍼 (구운 파프리카)",
+                "shortDescription": "두루두루 활용하는 파프리카 절임",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1638262042214l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1638262042214l0.jpg",
+                "salesPrice": 11000,
+                "discountedPrice": 10230,
+                "discountRate": 7.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 17,
+                "reviewCount": "285",
+                "shortUrl": null
+              },
+              {
+                "no": 5137167,
+                "name": "믹스 샐러드 3종",
+                "shortDescription": "싱그러운 맛과 다채로운 식감",
+                "listImageUrl": "https://product-image.kurly.com/product/image/575e7c78-0da8-42b4-b450-fe8ec394fa78.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/575e7c78-0da8-42b4-b450-fe8ec394fa78.jpg",
+                "salesPrice": 4290,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 18,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1001765937,
+                "name": "[바름팜] 수분 가득 프레시 가든 샐러드 150g",
+                "shortDescription": "싱그러움이 가득 담긴",
+                "listImageUrl": "https://product-image.kurly.com/product/image/a385eda6-3a33-4c65-a114-92e409005b54.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a385eda6-3a33-4c65-a114-92e409005b54.jpg",
+                "salesPrice": 4290,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "BC&우리카드 프로모션",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "BC&우리카드 프로모션",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 19,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000476602,
+                "name": "[저스트그린] 데일리 샐러드 4종",
+                "shortDescription": "손질 없이 바로 즐기는 샐러드 채소",
+                "listImageUrl": "https://product-image.kurly.com/product/image/a2263bf5-c7bf-46d6-af4d-a03811b658f9.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a2263bf5-c7bf-46d6-af4d-a03811b658f9.jpg",
+                "salesPrice": 2290,
+                "discountedPrice": 2060,
+                "discountRate": 10.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "[원더컬리] 원더핫딜 앰블럼",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/dcb582ef-8345-4a2c-b858-65ee36414f12.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "[원더컬리] 원더핫딜 앰블럼",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/dcb582ef-8345-4a2c-b858-65ee36414f12.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 20,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000612884,
+                "name": "[러베지] 병아리콩 후무스 2종",
+                "shortDescription": "담백하고 든든한 병아리콩 페이스트",
+                "listImageUrl": "https://product-image.kurly.com/product/image/8de68299-c355-40dd-a535-ad38f6214292.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/8de68299-c355-40dd-a535-ad38f6214292.jpg",
+                "salesPrice": 4300,
+                "discountedPrice": 3870,
+                "discountRate": 10.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 21,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1002182755,
+                "name": "[바름팜]  컬러 톡톡 스틱채소 도시락 240g",
+                "shortDescription": "싱그러운 색감과 산뜻한 풍미",
+                "listImageUrl": "https://product-image.kurly.com/product/image/ede15d80-1cd6-4c99-aebc-e900dde3798e.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ede15d80-1cd6-4c99-aebc-e900dde3798e.jpg",
+                "salesPrice": 5990,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 22,
+                "reviewCount": "32",
+                "shortUrl": null
+              },
+              {
+                "no": 1001098062,
+                "name": "멕시칸 쉬림프 타코 재료 골라담기 12종 (택1)",
+                "shortDescription": "취향껏 만드는 타코 레시피",
+                "listImageUrl": "https://product-image.kurly.com/product/image/a27f5cc8-d6c8-42bc-8109-6b3eefd31b71.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a27f5cc8-d6c8-42bc-8109-6b3eefd31b71.jpg",
+                "salesPrice": 8400,
+                "discountedPrice": 6190,
+                "discountRate": 26.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 23,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1002011348,
+                "name": "[바름팜] 생기 톡톡 스틱채소 도시락 240g",
+                "shortDescription": "쏙쏙 집어 먹는 아삭함",
+                "listImageUrl": "https://product-image.kurly.com/product/image/5656dfea-db58-417c-b7e5-e0a98f1c0b8d.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5656dfea-db58-417c-b7e5-e0a98f1c0b8d.jpg",
+                "salesPrice": 5990,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 24,
+                "reviewCount": "74",
+                "shortUrl": null
+              },
+              {
+                "no": 1000678133,
+                "name": "[히키키리키키]유니크 귀여운 과일야채 앞치마 6종 (택1)",
+                "shortDescription": "필릭스의 냉터뷰 바로 그 아이템! l 경쾌한 에너지가 넘치는 일러스트 패턴의 생활방수 앞치마 ",
+                "listImageUrl": "https://3p-image.kurly.com/files/6ec7ae0b-0e57-425c-933c-9b5f2f68672e/ba927fed-3fad-410f-85bc-fec3f86360c2.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/6ec7ae0b-0e57-425c-933c-9b5f2f68672e/ba927fed-3fad-410f-85bc-fec3f86360c2.jpg",
+                "salesPrice": 32900,
+                "discountedPrice": 29800,
+                "discountRate": 9.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "12",
+                    "name": "무료배송",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "판매자배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "NORMAL_PARCEL",
+                    "description": "판매자배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "주방_10% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "주방_10% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 25,
+                "reviewCount": "72",
+                "shortUrl": null
+              },
+              {
+                "no": 1001834663,
+                "name": "홈샐러드 재료 골라담기 7종",
+                "shortDescription": "싱그러운 샐러드를 위한 홈샐러드 재료 ",
+                "listImageUrl": "https://product-image.kurly.com/product/image/d95ba644-ddef-4e0c-be0e-38476e6da151.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/d95ba644-ddef-4e0c-be0e-38476e6da151.jpg",
+                "salesPrice": 5990,
+                "discountedPrice": 4990,
+                "discountRate": 16.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 26,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000634115,
+                "name": "[ardo] 냉동그릴채소믹스 450g",
+                "shortDescription": "손쉽게 꺼내 쓰는 구운 채소",
+                "listImageUrl": "https://product-image.kurly.com/product/image/b3ef19fa-2869-4938-8c3c-cb11f4060261.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/b3ef19fa-2869-4938-8c3c-cb11f4060261.jpg",
+                "salesPrice": 6090,
+                "discountedPrice": 5390,
+                "discountRate": 11.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 27,
+                "reviewCount": "834",
+                "shortUrl": null
+              },
+              {
+                "no": 1001807919,
+                "name": "[펫츠그린] 동결건조 건강 간식 4종 (택1)",
+                "shortDescription": "육류와 채소가 균형있게 혼합된 국내생산 강아지 고양이 동결건조 건강 간식",
+                "listImageUrl": "https://3p-image.kurly.com/files/3ec3a4c7-34a5-47a9-afd2-28e268291cce/7e682d4c-da0e-4eb3-93ff-e860aa9b834b.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/3ec3a4c7-34a5-47a9-afd2-28e268291cce/7e682d4c-da0e-4eb3-93ff-e860aa9b834b.jpg",
+                "salesPrice": 7900,
+                "discountedPrice": 6320,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "5",
+                    "name": "반려동물",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 28,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000678094,
+                "name": "[히키키리키키] 유니크 귀여운 과일야채 주방장갑",
+                "shortDescription": "경쾌한 에너지가 넘치는 일러스트 패턴의 주방장갑",
+                "listImageUrl": "https://3p-image.kurly.com/files/6ec7ae0b-0e57-425c-933c-9b5f2f68672e/424cec33-e147-4079-b69c-00576752c568.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/6ec7ae0b-0e57-425c-933c-9b5f2f68672e/424cec33-e147-4079-b69c-00576752c568.jpg",
+                "salesPrice": 10900,
+                "discountedPrice": 9500,
+                "discountRate": 12.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "12",
+                    "name": "무료배송",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "판매자배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "NORMAL_PARCEL",
+                    "description": "판매자배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "주방_15% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+15%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "주방_15% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+15%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 29,
+                "reviewCount": "76",
+                "shortUrl": null
+              },
+              {
+                "no": 1000073752,
+                "name": "[맥] 파우더 키스 벨벳 블러 슬림 스틱 17종 (택1) ",
+                "shortDescription": "겉은 보송, 속은 촉촉",
+                "listImageUrl": "https://product-image.kurly.com/product/image/39a5fa59-59d8-49b1-b476-04816c71e079.jpeg?v=0422",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/39a5fa59-59d8-49b1-b476-04816c71e079.jpeg?v=0422",
+                "salesPrice": 49000,
+                "discountedPrice": 41650,
+                "discountRate": 15.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Sold Out",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "+10%쿠폰(0410)",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "+10%쿠폰(0410)",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 30,
+                "reviewCount": "706",
+                "shortUrl": null
+              },
+              {
+                "no": 1000589031,
+                "name": "[오즈키즈] 파프리카 아동 상하복 세트 2종 (택1)",
+                "shortDescription": "편안하고 시원한 남아 여아 상하복 세트",
+                "listImageUrl": "https://3p-image.kurly.com/files/c0e7155c-d21b-4fcb-af5d-e73755f81e0f/ac923370-b0b9-4ac2-a257-18987d216ec3.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/c0e7155c-d21b-4fcb-af5d-e73755f81e0f/ac923370-b0b9-4ac2-a257-18987d216ec3.jpg",
+                "salesPrice": 41000,
+                "discountedPrice": 9900,
+                "discountRate": 75.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "12",
+                    "name": "무료배송",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "판매자배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "NORMAL_PARCEL",
+                    "description": "판매자배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "FASHION",
+                "position": 31,
+                "reviewCount": "",
+                "shortUrl": null
+              },
+              {
+                "no": 1001732916,
+                "name": "[JCDM] 병아리콩 후무스 2종 (택1)",
+                "shortDescription": "한 컵에 담은 고소한 풍미",
+                "listImageUrl": "https://product-image.kurly.com/product/image/62a67af1-2883-4d0f-90ca-1962dd9dc4a7.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/62a67af1-2883-4d0f-90ca-1962dd9dc4a7.jpg",
+                "salesPrice": 5480,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 32,
+                "reviewCount": "241",
+                "shortUrl": null
+              },
+              {
+                "no": 1000762919,
+                "name": "[히키키리키키] 유니크 아동앞치마 두건세트 2종 (택1)",
+                "shortDescription": "귀엽고 깜찍한 아동앞치마 두건세트 ",
+                "listImageUrl": "https://3p-image.kurly.com/files/6ec7ae0b-0e57-425c-933c-9b5f2f68672e/8fc44599-869e-4bfa-bae9-66ca94d685bf.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/6ec7ae0b-0e57-425c-933c-9b5f2f68672e/8fc44599-869e-4bfa-bae9-66ca94d685bf.jpg",
+                "salesPrice": 27000,
+                "discountedPrice": 22000,
+                "discountRate": 18.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "12",
+                    "name": "무료배송",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "판매자배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "NORMAL_PARCEL",
+                    "description": "판매자배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "주방_15% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+15%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "주방_15% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+15%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 33,
+                "reviewCount": "",
+                "shortUrl": null
+              }
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "pagination": {
+          "total": 33,
+          "count": 33,
+          "perPage": 96,
+          "currentPage": 1,
+          "totalPages": 1
+        },
+        "queryId": "933e6a3a-160a-4e94-a59d-91f1d33d3ce4",
+        "actualSite": "market",
+        "targetSite": "market",
+        "actualKeyword": "파프리카",
+        "adProductNos": [],
+        "isSemanticRetryResult": false,
+        "queryGroups": []
+      },
+      "sortSections": [
+        {
+          "view": {
+            "sectionCode": "SORT",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "type": "4",
+                "name": "추천순"
+              },
+              {
+                "type": "0",
+                "name": "신상품순"
+              },
+              {
+                "type": "1",
+                "name": "판매량순"
+              },
+              {
+                "type": "5",
+                "name": "혜택순"
+              },
+              {
+                "type": "2",
+                "name": "낮은 가격순"
+              },
+              {
+                "type": "3",
+                "name": "높은 가격순"
+              }
+            ]
+          }
+        }
+      ],
+      "filterSections": [
+        {
+          "view": {
+            "sectionCode": "FILTER",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "name": "카테고리",
+                "key": "category",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "907003",
+                    "name": "브로콜리·파프리카·양배추",
+                    "value": "",
+                    "productCounts": 9,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "907007",
+                    "name": "냉동·이색·간편채소",
+                    "value": "",
+                    "productCounts": 7,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "913008",
+                    "name": "소금·설탕·향신료",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "913007",
+                    "name": "식초·소스·드레싱",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "974002",
+                    "name": "🌊여름 7일장",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "172001",
+                    "name": "의류",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "365002",
+                    "name": "메이크업",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "910012",
+                    "name": "소시지·베이컨·하몽",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "913010",
+                    "name": "햄·통조림·병조림",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "915010",
+                    "name": "잼·스프레드",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "991001",
+                    "name": "강아지 간식·영양제",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "가격",
+                "key": "price",
+                "template": "radio_button",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "-3000",
+                    "name": "3,000원 미만",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "3000-6000",
+                    "name": "3,000원 ~ 6,000원",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "6000-15000",
+                    "name": "6,000원 ~ 15,000원",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "15000-",
+                    "name": "15,000원 이상",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "브랜드",
+                "key": "brand",
+                "template": "sorted_checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "br-5212",
+                    "name": "그린자이언트",
+                    "value": "ㄱ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-4632",
+                    "name": "네떼",
+                    "value": "ㄴ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-821",
+                    "name": "덴마크",
+                    "value": "ㄷ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-4298",
+                    "name": "라치나타",
+                    "value": "ㄹ",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-6558",
+                    "name": "러베지",
+                    "value": "ㄹ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-719",
+                    "name": "맥",
+                    "value": "ㅁ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-2686",
+                    "name": "목우촌",
+                    "value": "ㅁ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-6444",
+                    "name": "바름팜",
+                    "value": "ㅂ",
+                    "productCounts": 4,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-917",
+                    "name": "아레바로스",
+                    "value": "ㅇ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-7066",
+                    "name": "오즈키즈",
+                    "value": "ㅇ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-9376",
+                    "name": "욘카",
+                    "value": "ㅇ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-272",
+                    "name": "저스트그린",
+                    "value": "ㅈ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-6080",
+                    "name": "제각각",
+                    "value": "ㅈ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-8976",
+                    "name": "치퀼린",
+                    "value": "ㅊ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-8818",
+                    "name": "칼라보",
+                    "value": "ㅋ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-6768",
+                    "name": "토리",
+                    "value": "ㅌ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-9250",
+                    "name": "팜송",
+                    "value": "ㅍ",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-4022",
+                    "name": "펫츠그린",
+                    "value": "ㅍ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-3367",
+                    "name": "펭귄",
+                    "value": "ㅍ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-3722",
+                    "name": "프라텔리 롱고바디",
+                    "value": "ㅍ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-2077",
+                    "name": "허브&스파이스마켓",
+                    "value": "ㅎ",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-1492",
+                    "name": "후이펑",
+                    "value": "ㅎ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-7413",
+                    "name": "히키키리키키",
+                    "value": "ㅎ",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-434",
+                    "name": "ardo",
+                    "value": "a",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-8796",
+                    "name": "JCDM",
+                    "value": "j",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-88",
+                    "name": "KF365",
+                    "value": "k",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-3380",
+                    "name": "Sea to Table",
+                    "value": "s",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "유형",
+                "key": "type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "kurly_only",
+                    "name": "Kurly Only",
+                    "value": "",
+                    "productCounts": 8,
+                    "iconUrl": null,
+                    "isQuick": true,
+                    "quickPosition": 1
+                  },
+                  {
+                    "key": "scarcity_value",
+                    "name": "희소가치 프로젝트",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "혜택",
+                "key": "benefit",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "discount",
+                    "name": "할인상품",
+                    "value": "",
+                    "productCounts": 19,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "출시",
+                "key": "release_date",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "new_product",
+                    "name": "신상품",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "포장타입",
+                "key": "storage_type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "ambient_temperature",
+                    "name": "상온",
+                    "value": "",
+                    "productCounts": 14,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "cold",
+                    "name": "냉장",
+                    "value": "",
+                    "productCounts": 19,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "frozen",
+                    "name": "냉동",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "배송",
+                "key": "delivery_type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "dawn",
+                    "name": "샛별배송",
+                    "value": "",
+                    "productCounts": 29,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "normal_parcel",
+                    "name": "판매자배송",
+                    "value": "",
+                    "productCounts": 4,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "프로모션",
+                "key": "promotion",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "wonderkurly_202607",
+                    "name": "원더컬리",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": "https://collection-image.kurly.com/hdims/resize/%3E72x%3E72/src/filter-values/19904/eff77d38-58bd-43e2-aa5a-2af5f6e52afc.png",
+                    "isQuick": true,
+                    "quickPosition": 57
+                  }
+                ]
+              },
+              {
+                "name": "특정상품 제외",
+                "key": "exclusion",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "exclude_pet",
+                    "name": "반려동물 상품",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

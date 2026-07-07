@@ -4,14 +4,15 @@ from pydantic import BaseModel
 
 
 class Ingredient(BaseModel):
-    """
-    레시피에 사용되는 재료
-    """
 
     name: str
 
-    amount: Optional[float] = None
+    # 질량
+    amount: float | None = None
+    unit: str | None = None
 
-    unit: Optional[str] = None
+    # 개수
+    count: float | None = None
+    count_unit: str | None = None
 
-    raw: Optional[str] = None
+    raw: str | None = None

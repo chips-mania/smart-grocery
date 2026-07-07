@@ -1,0 +1,2707 @@
+{
+  "search_keyword": "애호박",
+  "ingredients": [
+    "애호박"
+  ],
+  "response": {
+    "success": true,
+    "message": null,
+    "data": {
+      "topSections": [
+        {
+          "view": {
+            "sectionCode": "RELATED_KEYWORD",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              "가지",
+              "양파",
+              "두부",
+              "당근",
+              "유기농 애호박",
+              "감자",
+              "애호박두부",
+              "애호박당근"
+            ]
+          }
+        }
+      ],
+      "listSections": [
+        {
+          "view": {
+            "sectionCode": "PRODUCT_LIST",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "no": 5030559,
+                "name": "[KF365] 애호박 1개",
+                "shortDescription": "믿고 먹을 수 있는 상품을 합리적인 가격에, KF365",
+                "listImageUrl": "https://product-image.kurly.com/product/image/6a175689-ff66-4838-b04d-cbed2ec3e3be.jpg?v=0531",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/6a175689-ff66-4838-b04d-cbed2ec3e3be.jpg?v=0531",
+                "salesPrice": 1690,
+                "discountedPrice": 1490,
+                "discountRate": 11.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 1,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1002030400,
+                "name": "[제각각] 애호박 1입",
+                "shortDescription": "울룩불룩해도 맛있는",
+                "listImageUrl": "https://product-image.kurly.com/product/image/17f320ca-693f-4fff-a18c-164ebea81b9c.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/17f320ca-693f-4fff-a18c-164ebea81b9c.jpg",
+                "salesPrice": 1590,
+                "discountedPrice": 1290,
+                "discountRate": 18.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "5월신선카드",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+10%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 2,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5000097,
+                "name": "친환경 애호박 1개",
+                "shortDescription": "맛있는 식탁을 위한 만능 식재료",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1653038277981l0.jpeg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1653038277981l0.jpeg",
+                "salesPrice": 2990,
+                "discountedPrice": 2750,
+                "discountRate": 8.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 3,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000178609,
+                "name": "[제각각] 애호박 3입",
+                "shortDescription": "울룩불룩해도 맛있는 ",
+                "listImageUrl": "https://product-image.kurly.com/product/image/4acfe004-0076-4cfc-89b4-12f41925bfb0.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/4acfe004-0076-4cfc-89b4-12f41925bfb0.jpg",
+                "salesPrice": 4490,
+                "discountedPrice": 3790,
+                "discountRate": 15.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  },
+                  {
+                    "name": "최저가도전",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  },
+                  {
+                    "name": "최저가도전",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 4,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000773235,
+                "name": "[키즈다이닝] 소고기 애호박 볶음",
+                "shortDescription": "부드러운 아이 반찬",
+                "listImageUrl": "https://product-image.kurly.com/product/image/d74fa158-b346-4119-bb51-d5681df09aa3.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/d74fa158-b346-4119-bb51-d5681df09aa3.jpg",
+                "salesPrice": 4400,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 5,
+                "reviewCount": "544",
+                "shortUrl": null
+              },
+              {
+                "no": 5144554,
+                "name": "뚝딱! 냉동 국산 애호박 500g",
+                "shortDescription": "찌개부터 전까지 다채롭게",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1656038957373l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1656038957373l0.jpg",
+                "salesPrice": 7190,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 6,
+                "reviewCount": "165",
+                "shortUrl": null
+              },
+              {
+                "no": 5030251,
+                "name": "[미자언니네] 애호박나물볶음",
+                "shortDescription": "달큰하고 고소하게 입맛 달래는",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1538725388149l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1538725388149l0.jpg",
+                "salesPrice": 5300,
+                "discountedPrice": 4950,
+                "discountRate": 6.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 7,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1001868164,
+                "name": "[흑백요리사] 술 빚는 윤주모셰프 애호박찌개",
+                "shortDescription": "시원칼칼한 감칠맛",
+                "listImageUrl": "https://product-image.kurly.com/product/image/b9c3d086-e83f-48fa-97be-60d7cc9bbc19.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/b9c3d086-e83f-48fa-97be-60d7cc9bbc19.jpg",
+                "salesPrice": 9980,
+                "discountedPrice": 7980,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 8,
+                "reviewCount": "409",
+                "shortUrl": null
+              },
+              {
+                "no": 1002188470,
+                "name": "[삼진어묵] 애호박새우 어묵",
+                "shortDescription": "애호박의 단맛과 새우의 짭쪼름함이 조화로운",
+                "listImageUrl": "https://product-image.kurly.com/product/image/5d85d1b1-2cd5-4b24-9de8-91b0850fb5e3.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5d85d1b1-2cd5-4b24-9de8-91b0850fb5e3.jpg",
+                "salesPrice": 4170,
+                "discountedPrice": 4170,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 9,
+                "reviewCount": "12",
+                "shortUrl": null
+              },
+              {
+                "no": 1002020368,
+                "name": "[장터만두] 시장 애호박 고기 만두 840g",
+                "shortDescription": "아삭한 애호박을 듬뿍 다져서 넣은",
+                "listImageUrl": "https://product-image.kurly.com/product/image/d0d27e2f-08b1-4dab-8d16-bd7341e1ebc0.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/d0d27e2f-08b1-4dab-8d16-bd7341e1ebc0.jpg",
+                "salesPrice": 8700,
+                "discountedPrice": 6960,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 10,
+                "reviewCount": "590",
+                "shortUrl": null
+              },
+              {
+                "no": 5127285,
+                "name": "무농약 원료 다진 애호박 100g",
+                "shortDescription": "안심하고 사용하는 다진 채소",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1649135904816l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1649135904816l0.jpg",
+                "salesPrice": 5490,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 11,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1002096743,
+                "name": "[진가네반찬] 애호박감자채전 ",
+                "shortDescription": "부드럽고 촉촉하게 부쳐낸",
+                "listImageUrl": "https://product-image.kurly.com/product/image/84e81757-7aa8-401a-8e6b-96eebe2bb909.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/84e81757-7aa8-401a-8e6b-96eebe2bb909.jpg",
+                "salesPrice": 7500,
+                "discountedPrice": 7500,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 12,
+                "reviewCount": "90",
+                "shortUrl": null
+              },
+              {
+                "no": 1002042287,
+                "name": "[풀무원] 지구식단 이슬만두 김치애호박 1.02kg",
+                "shortDescription": "밀가루 0%, 쫀득 담백한 김치 만두",
+                "listImageUrl": "https://product-image.kurly.com/product/image/84e006bc-3a73-4a4b-b2b8-9af73f6c21df.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/84e006bc-3a73-4a4b-b2b8-9af73f6c21df.jpg",
+                "salesPrice": 12980,
+                "discountedPrice": 11480,
+                "discountRate": 11.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 13,
+                "reviewCount": "37",
+                "shortUrl": null
+              },
+              {
+                "no": 1001388590,
+                "name": "[온하루] 애호박 떡갈비",
+                "shortDescription": "겉은 노릇 속은 촉촉한",
+                "listImageUrl": "https://product-image.kurly.com/product/image/18ed1fb8-39de-42e7-a146-1c1cf8c8735e.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/18ed1fb8-39de-42e7-a146-1c1cf8c8735e.jpg",
+                "salesPrice": 7500,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 14,
+                "reviewCount": "206",
+                "shortUrl": null
+              },
+              {
+                "no": 1002195929,
+                "name": "[비움반찬] 애호박 새우젓 볶음",
+                "shortDescription": "짭짤한 감칠맛의 밥 반찬",
+                "listImageUrl": "https://product-image.kurly.com/product/image/5ddc7926-b59a-4d94-8312-5803dec68cd2.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5ddc7926-b59a-4d94-8312-5803dec68cd2.jpg",
+                "salesPrice": 4300,
+                "discountedPrice": 4300,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 15,
+                "reviewCount": "90",
+                "shortUrl": null
+              },
+              {
+                "no": 5053298,
+                "name": "돼지호박 1개 (쥬키니)",
+                "shortDescription": "애호박보다 크고 통통한",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1592895497226l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1592895497226l0.jpg",
+                "salesPrice": 2990,
+                "discountedPrice": 1990,
+                "discountRate": 33.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 16,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000206549,
+                "name": "국산 단호박 1통",
+                "shortDescription": "큼직하고 묵직한 단호박",
+                "listImageUrl": "https://product-image.kurly.com/product/image/3bd244fc-ba1d-47dc-8e18-f1646ca33594.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/3bd244fc-ba1d-47dc-8e18-f1646ca33594.jpg",
+                "salesPrice": 4990,
+                "discountedPrice": 2990,
+                "discountRate": 40.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "농축산물할인쿠폰 20%",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 17,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5036421,
+                "name": "[베이비본죽] 감자애호박된장국",
+                "shortDescription": "재료 본연의 맛을 담은 된장국",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/157069994734l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/157069994734l0.jpg",
+                "salesPrice": 4500,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 18,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1001179684,
+                "name": "[테라카니스] 클래식 토끼와 애호박 캔",
+                "shortDescription": "테라카니스 클래식라인은 곡물류에 거부반응이 없는 모든 반려견에게 좋은 사료입니다. ",
+                "listImageUrl": "https://3p-image.kurly.com/files/0badef70-4614-49a0-97a2-31253f3dcab0/db02bf1c-5533-4bd3-86ea-106e8def8bfc.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/0badef70-4614-49a0-97a2-31253f3dcab0/db02bf1c-5533-4bd3-86ea-106e8def8bfc.jpg",
+                "salesPrice": 8500,
+                "discountedPrice": 6800,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 19,
+                "reviewCount": "120",
+                "shortUrl": null
+              },
+              {
+                "no": 1001882994,
+                "name": "[흑백요리사] 술 빚는 윤주모 국물요리 5종",
+                "shortDescription": "물 넣고 끓여 500g 든든한 한 그릇 완성",
+                "listImageUrl": "https://product-image.kurly.com/product/image/74efeb82-9433-44b1-8f7e-159b97b9dc11.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/74efeb82-9433-44b1-8f7e-159b97b9dc11.jpg",
+                "salesPrice": 9980,
+                "discountedPrice": 7980,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "컬리멤버스_풀무원",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "멤버스25%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#4DBED7",
+                      "backgroundOpacity": 1.0
+                    }
+                  },
+                  {
+                    "name": "[원더컬리] 원더핫딜 앰블럼",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/dcb582ef-8345-4a2c-b858-65ee36414f12.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "컬리멤버스_풀무원",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "멤버스25%쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#4DBED7",
+                      "backgroundOpacity": 1.0
+                    }
+                  },
+                  {
+                    "name": "[원더컬리] 원더핫딜 앰블럼",
+                    "type": "BOTTOM_LEFT_IMAGE",
+                    "content": {
+                      "imageUrl": "https://product-image.kurly.com/sticker/image/dcb582ef-8345-4a2c-b858-65ee36414f12.png",
+                      "width": 380,
+                      "height": 380,
+                      "opacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 20,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000888079,
+                "name": "[키즈다이닝] 아이 반찬 인기 메뉴 모음",
+                "shortDescription": "우리 아이를 위한 매일의 만찬",
+                "listImageUrl": "https://product-image.kurly.com/product/image/c319f93a-23b3-427e-abc1-87f630cb086b.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/c319f93a-23b3-427e-abc1-87f630cb086b.jpg",
+                "salesPrice": 4100,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_IMPOSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 21,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1001376070,
+                "name": "[미자언니네] 밑반찬 16종 골라담기(택1)",
+                "shortDescription": "취향따라 골라 즐기는 반찬",
+                "listImageUrl": "https://product-image.kurly.com/product/image/def30378-3d49-4fdd-9cbb-9efd3fc342d7.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/def30378-3d49-4fdd-9cbb-9efd3fc342d7.jpg",
+                "salesPrice": 4900,
+                "discountedPrice": 4165,
+                "discountRate": 15.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  },
+                  {
+                    "code": "3",
+                    "name": "한정수량",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 22,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1002191162,
+                "name": "[도리깨침] 애호박나물",
+                "shortDescription": "아삭한 식감을 살려 볶아낸",
+                "listImageUrl": "https://product-image.kurly.com/product/image/07792f72-ea95-4b9d-bec8-435963589ee7.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/07792f72-ea95-4b9d-bec8-435963589ee7.jpg",
+                "salesPrice": 5400,
+                "discountedPrice": 4860,
+                "discountRate": 10.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 23,
+                "reviewCount": "27",
+                "shortUrl": null
+              },
+              {
+                "no": 1000382034,
+                "name": "[둥구나무] 짜글이찌개",
+                "shortDescription": "큼직한 건더기가 가득",
+                "listImageUrl": "https://product-image.kurly.com/product/image/f8e64831-b471-4aa4-b011-8eba7bf39cee.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/f8e64831-b471-4aa4-b011-8eba7bf39cee.jpg",
+                "salesPrice": 7900,
+                "discountedPrice": 7900,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "HMR2카드쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "최대15% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "HMR2카드쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "최대15% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 24,
+                "reviewCount": "366",
+                "shortUrl": null
+              },
+              {
+                "no": 5128487,
+                "name": "뚝딱! 고추가 들어간 찌개용 채소 500g (냉동)",
+                "shortDescription": "개운하고 깔끔한 찌개를 위한 선택",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/1649830690313l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1649830690313l0.jpg",
+                "salesPrice": 8290,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 25,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1001388586,
+                "name": "[온하루] 월과채",
+                "shortDescription": "새롭게 즐기는 잡채",
+                "listImageUrl": "https://product-image.kurly.com/product/image/8fd97d30-d6fb-4f69-a844-10fc8a8bf112.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/8fd97d30-d6fb-4f69-a844-10fc8a8bf112.jpg",
+                "salesPrice": 5500,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 26,
+                "reviewCount": "128",
+                "shortUrl": null
+              },
+              {
+                "no": 1001401861,
+                "name": "[신사동 포노 부오노] 히든 천재의 명란 오일 파스타",
+                "shortDescription": "셰프의 킥이 담긴 포노부오노 파스타",
+                "listImageUrl": "https://product-image.kurly.com/product/image/4007f778-2aca-4cdc-8f10-f04aff382048.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/4007f778-2aca-4cdc-8f10-f04aff382048.jpg",
+                "salesPrice": 11900,
+                "discountedPrice": 9520,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "HMR카드쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "최대15% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "HMR카드쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "최대15% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 27,
+                "reviewCount": "525",
+                "shortUrl": null
+              },
+              {
+                "no": 1001834673,
+                "name": "전골용 채소 골라담기 5종",
+                "shortDescription": "따뜻한 국물 요리의 필수 재료",
+                "listImageUrl": "https://product-image.kurly.com/product/image/3b8e3807-afc8-4326-9aef-8f05a1887b07.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/3b8e3807-afc8-4326-9aef-8f05a1887b07.jpg",
+                "salesPrice": 3990,
+                "discountedPrice": 2990,
+                "discountRate": 25.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 28,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5130108,
+                "name": "[베이비본죽] 13개월 이후 국물요리 6종 (택1)",
+                "shortDescription": "좋은 재료로 순하게 끓인 국물 요리",
+                "listImageUrl": "https://img-cf.kurly.com/shop/data/goods/164990283878l0.jpg",
+                "productVerticalMediumUrl": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/164990283878l0.jpg",
+                "salesPrice": 4500,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 29,
+                "reviewCount": "9,999+",
+                "shortUrl": null
+              },
+              {
+                "no": 5036239,
+                "name": "[베이비본죽] 중기 이유식 : 한우&닭 8종(택1)",
+                "shortDescription": "중요한 단백질을 채우는 식단",
+                "listImageUrl": "https://product-image.kurly.com/product/image/959f470c-a08d-4dd8-8c4c-39edab0b4f82.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/959f470c-a08d-4dd8-8c4c-39edab0b4f82.jpg",
+                "salesPrice": 4700,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 30,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000040683,
+                "name": "[베이비본죽] 중기 이유식 2종 (실온) (택1)",
+                "shortDescription": "7~8개월 아이를 위한 실온 보관 이유식",
+                "listImageUrl": "https://product-image.kurly.com/product/image/6e790588-189b-488d-aecd-22df05d61412.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/6e790588-189b-488d-aecd-22df05d61412.jpg",
+                "salesPrice": 5030,
+                "discountedPrice": 4520,
+                "discountRate": 10.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 31,
+                "reviewCount": "654",
+                "shortUrl": null
+              },
+              {
+                "no": 1001151652,
+                "name": "[테라카니스] 라이트 치킨과 애호박 캔",
+                "shortDescription": "테라카니스 라이트라인은 체중조절에 도움을 줄수 있는 저지방 주식입니다.",
+                "listImageUrl": "https://3p-image.kurly.com/files/0badef70-4614-49a0-97a2-31253f3dcab0/28e04f54-0824-4e9f-be5f-b13cc9a07fbc.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/0badef70-4614-49a0-97a2-31253f3dcab0/28e04f54-0824-4e9f-be5f-b13cc9a07fbc.jpg",
+                "salesPrice": 14000,
+                "discountedPrice": 11200,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "5",
+                    "name": "반려동물",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 32,
+                "reviewCount": "88",
+                "shortUrl": null
+              },
+              {
+                "no": 1000859139,
+                "name": "[테라카니스] 그레인프리 토끼와 애호박 캔",
+                "shortDescription": "테라카니스 그레인프리라인은 곡물류와 락토스가 첨가되어 있지않아, 곡물류나 락토스에 거부반응이 있는 반려견에게 잘 맞습니다.",
+                "listImageUrl": "https://3p-image.kurly.com/files/0badef70-4614-49a0-97a2-31253f3dcab0/1aff4c1c-97db-47de-99f0-d197311d7666.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/0badef70-4614-49a0-97a2-31253f3dcab0/1aff4c1c-97db-47de-99f0-d197311d7666.jpg",
+                "salesPrice": 9300,
+                "discountedPrice": 7440,
+                "discountRate": 20.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "stickersV2": [
+                  {
+                    "name": "풀무원 20% 쿠폰",
+                    "type": "TOP_LEFT_TEXT",
+                    "content": {
+                      "contents": [
+                        {
+                          "text": "+20% 쿠폰",
+                          "fontColorCode": "#FFFFFF",
+                          "fontEffect": "NONE",
+                          "fontStyle": "BOLD",
+                          "opacity": 1.0
+                        }
+                      ],
+                      "backgroundColorCode": "#BD76FF",
+                      "backgroundOpacity": 1.0
+                    }
+                  }
+                ],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 33,
+                "reviewCount": "122",
+                "shortUrl": null
+              },
+              {
+                "no": 1002170195,
+                "name": "[온하루공방]  5월 4주차 찬 ((5/21 목 예약수령))",
+                "shortDescription": "온하루 쉐프들이 직접 만드는 제철 한상 차림",
+                "listImageUrl": "https://3p-image.kurly.com/files/1c3094d9-9af1-41a0-86be-a5dd2e8ad2c3/1bece925-6a31-4c72-8bba-784ede293169.jpg",
+                "productVerticalMediumUrl": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/1c3094d9-9af1-41a0-86be-a5dd2e8ad2c3/1bece925-6a31-4c72-8bba-784ede293169.jpg",
+                "salesPrice": 56000,
+                "discountedPrice": 56000,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  },
+                  {
+                    "code": "3",
+                    "name": "한정수량",
+                    "type": "DEFAULT"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "판매자배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "NORMAL_PARCEL",
+                    "description": "판매자배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 34,
+                "reviewCount": "",
+                "shortUrl": null
+              }
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "pagination": {
+          "total": 34,
+          "count": 34,
+          "perPage": 96,
+          "currentPage": 1,
+          "totalPages": 1
+        },
+        "queryId": "b3e95450-0e07-4b07-af37-e5ab58877adf",
+        "actualSite": "market",
+        "targetSite": "market",
+        "actualKeyword": "애호박",
+        "adProductNos": [],
+        "isSemanticRetryResult": false,
+        "queryGroups": []
+      },
+      "sortSections": [
+        {
+          "view": {
+            "sectionCode": "SORT",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "type": "4",
+                "name": "추천순"
+              },
+              {
+                "type": "0",
+                "name": "신상품순"
+              },
+              {
+                "type": "1",
+                "name": "판매량순"
+              },
+              {
+                "type": "5",
+                "name": "혜택순"
+              },
+              {
+                "type": "2",
+                "name": "낮은 가격순"
+              },
+              {
+                "type": "3",
+                "name": "높은 가격순"
+              }
+            ]
+          }
+        }
+      ],
+      "filterSections": [
+        {
+          "view": {
+            "sectionCode": "FILTER",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "name": "카테고리",
+                "key": "category",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "911002",
+                    "name": "밑반찬",
+                    "value": "",
+                    "productCounts": 8,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "907004",
+                    "name": "오이·호박·고추",
+                    "value": "",
+                    "productCounts": 6,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "907007",
+                    "name": "냉동·이색·간편채소",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "911005",
+                    "name": "두부·어묵·부침개",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "919011",
+                    "name": "분유·간편 이유식",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "919013",
+                    "name": "간식·음식",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "991002",
+                    "name": "강아지 주식",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "907008",
+                    "name": "친환경",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "911001",
+                    "name": "국·탕·찌개",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "912008",
+                    "name": "치킨·피자·핫도그·만두",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "974002",
+                    "name": "🌊여름 7일장",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "796004",
+                    "name": "최상급 신선",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "912011",
+                    "name": "밀키트",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "974001",
+                    "name": "🏆원더핫딜",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "가격",
+                "key": "price",
+                "template": "radio_button",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "-3000",
+                    "name": "3,000원 미만",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "3000-5000",
+                    "name": "3,000원 ~ 5,000원",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "5000-8000",
+                    "name": "5,000원 ~ 8,000원",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "8000-",
+                    "name": "8,000원 이상",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "브랜드",
+                "key": "brand",
+                "template": "sorted_checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "br-996",
+                    "name": "도리깨침",
+                    "value": "ㄷ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-1256",
+                    "name": "둥구나무",
+                    "value": "ㄷ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-1090",
+                    "name": "미자언니네",
+                    "value": "ㅁ",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-1304",
+                    "name": "베이비본죽",
+                    "value": "ㅂ",
+                    "productCounts": 4,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-811",
+                    "name": "비움반찬",
+                    "value": "ㅂ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-1879",
+                    "name": "삼진어묵",
+                    "value": "ㅅ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-7669",
+                    "name": "신사동 포노 부오노",
+                    "value": "ㅅ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-1481",
+                    "name": "온하루",
+                    "value": "ㅇ",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-8420",
+                    "name": "장터만두",
+                    "value": "ㅈ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-6080",
+                    "name": "제각각",
+                    "value": "ㅈ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-776",
+                    "name": "진가네반찬",
+                    "value": "ㅈ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-6709",
+                    "name": "키즈다이닝",
+                    "value": "ㅋ",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-2834",
+                    "name": "테라카니스",
+                    "value": "ㅌ",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-342",
+                    "name": "풀무원",
+                    "value": "ㅍ",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "br-88",
+                    "name": "KF365",
+                    "value": "k",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "유형",
+                "key": "type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "kurly_only",
+                    "name": "Kurly Only",
+                    "value": "",
+                    "productCounts": 15,
+                    "iconUrl": null,
+                    "isQuick": true,
+                    "quickPosition": 1
+                  }
+                ]
+              },
+              {
+                "name": "혜택",
+                "key": "benefit",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "discount",
+                    "name": "할인상품",
+                    "value": "",
+                    "productCounts": 19,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "limited",
+                    "name": "한정수량",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "출시",
+                "key": "release_date",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "new_product",
+                    "name": "신상품",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "포장타입",
+                "key": "storage_type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "ambient_temperature",
+                    "name": "상온",
+                    "value": "",
+                    "productCounts": 4,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "cold",
+                    "name": "냉장",
+                    "value": "",
+                    "productCounts": 22,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "frozen",
+                    "name": "냉동",
+                    "value": "",
+                    "productCounts": 8,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "배송",
+                "key": "delivery_type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "dawn",
+                    "name": "샛별배송",
+                    "value": "",
+                    "productCounts": 33,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "normal_parcel",
+                    "name": "판매자배송",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "회원유형",
+                "key": "user_group",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "members_benefit_07_1",
+                    "name": "멤버스혜택",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": "https://collection-image.kurly.com/hdims/resize/%3E72x%3E72/src/filter-values/19909/99863214-ba8a-4db3-ad51-92545f181ef2.png",
+                    "isQuick": true,
+                    "quickPosition": 55
+                  }
+                ]
+              },
+              {
+                "name": "프로모션",
+                "key": "promotion",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "wonderkurly_202607",
+                    "name": "원더컬리",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": "https://collection-image.kurly.com/hdims/resize/%3E72x%3E72/src/filter-values/19904/eff77d38-58bd-43e2-aa5a-2af5f6e52afc.png",
+                    "isQuick": true,
+                    "quickPosition": 57
+                  }
+                ]
+              },
+              {
+                "name": "특정상품 제외",
+                "key": "exclusion",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "exclude_pet",
+                    "name": "반려동물 상품",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -16,9 +16,13 @@ class Product(BaseModel):
 
     product_name: str
 
-    package_amount: Optional[float] = None
+    package_amount: float | None
 
-    package_unit: Optional[str] = None
+    package_unit: str | None
+
+    package_count: float | None
+
+    package_count_unit: str | None
 
     price: int
 

@@ -1,0 +1,7492 @@
+[
+  {
+    "ingredient": "2가지색 파프리카",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "2가지색 파프리카 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "가시오가피",
+    "recipes": [
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "가시오가피(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "가지",
+    "recipes": [
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "가지 70g(1/2개)"
+      },
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "가지 100g(1개)"
+      },
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "가지 20g"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "가지(30g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "가지(1/2개)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "가지(1/2개)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "가지(10g)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "가지(17g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "간 양파",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "간 양파 10g"
+      }
+    ]
+  },
+  {
+    "ingredient": "간 홍고추",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "소금 0.5g - 양념장 : 간 홍고추 10g"
+      }
+    ]
+  },
+  {
+    "ingredient": "간장",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "간장 30g(2큰술)"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "간장 2g(1/2작은술)"
+      },
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "간장 20g(1⅓큰술)"
+      },
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "간장(2g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "간장 2.5g"
+      },
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "간장(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "감자",
+    "recipes": [
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "감자 10g(4×3×1cm)"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "감자 100g(1개)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "감자(30g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "감자(10g)"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "감자 60g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "감자 220g"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "감자(150g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "감자(20g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "감자(50g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "감자(30g)"
+      },
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "감자(200g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "감자 30g"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "감자 30g"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "감자(27g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "강낭콩",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "강낭콩 5g(1작은술)"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "강낭콩 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "강황가루",
+    "recipes": [
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "강황가루(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "건다시마",
+    "recipes": [
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "건다시마 3g"
+      }
+    ]
+  },
+  {
+    "ingredient": "건미역",
+    "recipes": [
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "건미역(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "건바질",
+    "recipes": [
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "건바질 2g"
+      }
+    ]
+  },
+  {
+    "ingredient": "건새우",
+    "recipes": [
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "건새우(20g)"
+      },
+      {
+        "recipe_id": 395,
+        "recipe_name": "새우아욱죽",
+        "raw": "건새우 25g"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "건새우(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "건포도",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "건포도 5알"
+      }
+    ]
+  },
+  {
+    "ingredient": "검은콩",
+    "recipes": [
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "검은콩 70g"
+      },
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "검은콩(200g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "겨자가루",
+    "recipes": [
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "겨자가루(10g)"
+      },
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "겨자가루(10g)."
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "겨자가루(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "견과류",
+    "recipes": [
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "견과류(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "곁들임 치커리",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "곁들임 : 치커리 10g(3줄기)"
+      }
+    ]
+  },
+  {
+    "ingredient": "계피가루",
+    "recipes": [
+      {
+        "recipe_id": 665,
+        "recipe_name": "연근부각",
+        "raw": "계피가루(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "고구마",
+    "recipes": [
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "고구마(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "고수",
+    "recipes": [
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "고수(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "고운 고춧가루",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "고운 고춧가루 1.25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "고추장",
+    "recipes": [
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "고추장 15g(1큰술)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "고추장(2g)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "고추장 15g"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "고추장(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "고춧가루",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "고춧가루 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "고춧가루 4g(1작은술)"
+      },
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "고춧가루 5g(1작은술)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "고춧가루(20g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "고춧가루(4g)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "고춧가루 15g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "고춧가루 1g"
+      },
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "고춧가루(3g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "고춧가루(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "곤약",
+    "recipes": [
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "곤약(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "광어",
+    "recipes": [
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "광어(150g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "광어(1마리)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "광어(1마리)"
+      }
+    ]
+  },
+  {
+    "ingredient": "구운채소 가지",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "구운채소 : 가지 20g(3cm)"
+      }
+    ]
+  },
+  {
+    "ingredient": "국간장",
+    "recipes": [
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "국간장 5g(1작은술)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "국간장(1.5g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "국간장 2.5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "국멸치",
+    "recipes": [
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "국멸치 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "국물용 멸치",
+    "recipes": [
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "국물용 멸치 5g(3마리)"
+      }
+    ]
+  },
+  {
+    "ingredient": "굴",
+    "recipes": [
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "굴(40g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "굵은 고춧가루",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "굵은 고춧가루 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "귀리밥",
+    "recipes": [
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "귀리밥 50g"
+      },
+      {
+        "recipe_id": 395,
+        "recipe_name": "새우아욱죽",
+        "raw": "귀리밥 100g"
+      }
+    ]
+  },
+  {
+    "ingredient": "그린매쉬드포테이토 감자",
+    "recipes": [
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "그린매쉬드포테이토 : 감자 80g(1/2개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "김치",
+    "recipes": [
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "김치 140g"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "김치 15g"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "김치(120g)"
+      },
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "김치(50g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "김치(140g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "김치(40g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "김치(40g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "김치(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "깻잎",
+    "recipes": [
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "깻잎(3g)"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "깻잎 10g"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "깻잎(3장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "꽈리고추",
+    "recipes": [
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "꽈리고추 50g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "꽈리고추 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "꿀",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "꿀 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "꿀(10g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "꿀(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "날콩가루",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "날콩가루 7g(1⅓작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "냉이",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "냉이 35g"
+      }
+    ]
+  },
+  {
+    "ingredient": "노랑 파프리카",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "노랑 파프리카 3g(3×1cm)"
+      }
+    ]
+  },
+  {
+    "ingredient": "노루궁뎅이버섯",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "노루궁뎅이버섯 25g(1/2개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "녹말",
+    "recipes": [
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "녹말(10g)"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "녹말(20g)"
+      },
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "녹말(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "녹말가루",
+    "recipes": [
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "녹말가루(10g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "녹말가루(20g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "녹말가루(20g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "녹말가루(10g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "녹말가루(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "누룽지",
+    "recipes": [
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "누룽지(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "느타리",
+    "recipes": [
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "느타리(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "느타리버섯",
+    "recipes": [
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "느타리버섯(10g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "느타리버섯(10g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "느타리버섯(25g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "느타리버섯(40g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "느타리버섯(10g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "느타리버섯(20g)"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "느타리버섯 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "다시마",
+    "recipes": [
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "다시마 1장(5×1cm)"
+      },
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "다시마 17g(15cm)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "다시마 1g"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "다시마(10g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "다시마(5g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "다시마(5g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "다시마(5g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "다시마(3g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "다시마(5g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "다시마(5g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "다시마(3g)"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "다시마(10g)"
+      },
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "다시마(2g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 대파",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "다진 대파 5g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 돼지고기",
+    "recipes": [
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "다진 돼지고기(20g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "다진 돼지고기(60g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 돼지고기 등심",
+    "recipes": [
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "다진 돼지고기(등심, 60g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 땅콩",
+    "recipes": [
+      {
+        "recipe_id": 32,
+        "recipe_name": "순두부 사과 소스 오이무침",
+        "raw": "다진 땅콩 10g(1큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 마늘",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "다진 마늘 2g(1/2쪽)"
+      },
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "다진 마늘 2.5g(1/2쪽)"
+      },
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "다진 마늘 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "다진 마늘 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "다진 마늘 5g"
+      },
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "다진 마늘 5g(1작은술)"
+      },
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "다진 마늘(10g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "다진 마늘(5g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "다진 마늘(5g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "다진 마늘(3g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "다진 마늘(1g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "다진 마늘(10g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "다진 마늘(10g)"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "다진 마늘 3g"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "다진 마늘 1.25g"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "다진 마늘 2g"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 생강",
+    "recipes": [
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "다진 생강 5g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 소고기",
+    "recipes": [
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "다진 소고기(60g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 양파",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "다진 양파 10g(2작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 오이피클",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "다진 오이피클 10g(2작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 파",
+    "recipes": [
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "다진 파(10g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "다진 파(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진 홍고추",
+    "recipes": [
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "다진 홍고추 10g(1개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진대파",
+    "recipes": [
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "다진대파 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진돼지고기",
+    "recipes": [
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "다진돼지고기 50g"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진마늘",
+    "recipes": [
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "다진마늘(2g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "다진마늘(1g)"
+      },
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "다진마늘 20g"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "다진마늘 15g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "다진마늘 5g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "다진마늘 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진양파",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "다진양파 30g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "다진양파 25g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "다진양파 30g"
+      }
+    ]
+  },
+  {
+    "ingredient": "다진쪽파",
+    "recipes": [
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "다진쪽파 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "단호박",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "단호박(1/4개)"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "단호박 200g"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "단호박(30g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "단호박(1/4개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "달걀",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "달걀 30g(1/2개)"
+      },
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "달걀 50g(1개)"
+      },
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "달걀 50g(1개)"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "달걀 60g(1개)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "달걀(50g)"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "달걀 1개(60g)"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "달걀 60g"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "달걀(50g)"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "달걀(50g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "달걀(50g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "달걀(1개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "달걀노른자",
+    "recipes": [
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "달걀노른자(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "달래무침 달래",
+    "recipes": [
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "달래무침 달래(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭 가슴살",
+    "recipes": [
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "닭 가슴살 100g"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭가슴살",
+    "recipes": [
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "닭가슴살(60g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "닭가슴살(100g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "닭가슴살(120g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "닭가슴살(50g)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "닭가슴살(80g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭고기",
+    "recipes": [
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "닭고기(1마리)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "닭고기(1마리)"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭고기 가슴살",
+    "recipes": [
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "닭고기(가슴살, 120g)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "닭고기(가슴살, 150g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭고기살",
+    "recipes": [
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "닭고기살(150g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "닭고기살(100g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "닭고기살(120g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭다리살",
+    "recipes": [
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "닭다리살 80g"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "닭다리살(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "닭뼈",
+    "recipes": [
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "닭뼈(90g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "당귀",
+    "recipes": [
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "당귀(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "당근",
+    "recipes": [
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "당근 5g(3×1×1cm)"
+      },
+      {
+        "recipe_id": 108,
+        "recipe_name": "오렌지와 당근 만남주스",
+        "raw": "당근 100g(1/2개)"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "당근 15g(1/10개)"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "당근 20g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "당근 20g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "당근 30g"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "당근(30g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "당근(30g)"
+      },
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "당근(30g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "당근(20g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "당근 8g"
+      }
+    ]
+  },
+  {
+    "ingredient": "당면",
+    "recipes": [
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "당면(21g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "대구살",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "대구살 120g"
+      }
+    ]
+  },
+  {
+    "ingredient": "대추",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "대추(3알)"
+      },
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "대추(3알)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "대추(20g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "대추(3알)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "대추(2알)"
+      }
+    ]
+  },
+  {
+    "ingredient": "대파",
+    "recipes": [
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "대파 10g(5cm)"
+      },
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "대파 10g(2cm)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "대파 5g"
+      },
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "대파 30g(1개)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "대파(20g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "대파(5g)"
+      },
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "대파(10g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "대파(20g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "대파(3g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "대파(20g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "대파(6g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "대파(3g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "대파(5g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "대파(1g)"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "대파 10g"
+      },
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "대파 100g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "대파 20g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "대파 25g"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "대파(10g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "대파(10g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "대파 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "도라지",
+    "recipes": [
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "도라지(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "돈나물",
+    "recipes": [
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "돈나물(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "돌나물 샐러드 돌나물",
+    "recipes": [
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "돌나물 샐러드 : 돌나물 90g"
+      }
+    ]
+  },
+  {
+    "ingredient": "동태포",
+    "recipes": [
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "동태포(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "돼지고기",
+    "recipes": [
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "돼지고기 100g"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "돼지고기 30g"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "돼지고기(50g)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "돼지고기(100g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "돼지고기(50g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "돼지고기(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "돼지고기 안심",
+    "recipes": [
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "돼지고기(안심, 100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "된장",
+    "recipes": [
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "된장 5g(1작은술)"
+      },
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "된장 20g(1½큰술)"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "된장(30g)"
+      },
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "된장(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "두부",
+    "recipes": [
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "두부 20g(2×2×2cm)"
+      },
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "두부 320g(1모)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "두부 10g"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "두부 20g(1/20모)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "두부(50g)"
+      },
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "두부(50g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "두부(60g)"
+      },
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "두부(40g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "두부(50g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "두부(10g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "두부(50g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "두부(40g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "두부(20g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "두부(100g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "두부(80g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "두부(50g)"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "두부 8g"
+      }
+    ]
+  },
+  {
+    "ingredient": "두유",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "두유 50g(3⅓큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "들깨가루",
+    "recipes": [
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "들깨가루(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "들깻가루",
+    "recipes": [
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "들깻가루(5g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "들깻가루(15g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "들깻가루(10g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "들깻가루(7g)"
+      },
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "들깻가루(40g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "들깻가루(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "디종머스터드",
+    "recipes": [
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "디종머스터드(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "딸기",
+    "recipes": [
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "딸기 70g(7개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "땅콩",
+    "recipes": [
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "땅콩(50g)"
+      },
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "땅콩(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "떡",
+    "recipes": [
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "떡(40g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "떡갈비 다진소고기",
+    "recipes": [
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "떡갈비 : 다진소고기 50g"
+      }
+    ]
+  },
+  {
+    "ingredient": "떡국 떡",
+    "recipes": [
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "떡국 떡 10g"
+      }
+    ]
+  },
+  {
+    "ingredient": "또띠아",
+    "recipes": [
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "또띠아(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "라이스버거 밥",
+    "recipes": [
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "라이스버거 : 밥 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "라이스페이퍼",
+    "recipes": [
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "라이스페이퍼(5장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "레디쉬",
+    "recipes": [
+      {
+        "recipe_id": 641,
+        "recipe_name": "훈제오리가슴살 샐러드",
+        "raw": "레디쉬(1개)"
+      },
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "레디쉬(1개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "레몬",
+    "recipes": [
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "레몬(1/4개)"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "레몬 25g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "레몬 25g"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "레몬(10g)"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "레몬(20g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "레몬(10g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "레몬(1/4개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "레몬즙",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "레몬즙 3g(2/3작은술)"
+      },
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "레몬즙 5g(1작은술)"
+      },
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "레몬즙 5g(1작은술)"
+      },
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "레몬즙 20g(1⅓큰술)"
+      },
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "레몬즙 60g(4큰술)"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "레몬즙 15g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "레몬즙 15g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "레몬즙 2g"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "레몬즙(20g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "레몬즙(10g)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "레몬즙(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "로즈마리",
+    "recipes": [
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "로즈마리(2g)"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "로즈마리 1g"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "로즈마리(2g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "로즈마리(2g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "로즈마리(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "르네디종 홀그레인머스터",
+    "recipes": [
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "르네디종 홀그레인머스터 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "리코타치즈",
+    "recipes": [
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "리코타치즈(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "마늘",
+    "recipes": [
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "마늘 5g(1쪽)"
+      },
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "마늘 10g(2개)"
+      },
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "마늘 10g(2개)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "마늘(20g)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "마늘(20g)"
+      },
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "마늘(5g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "마늘(3g)"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "마늘 15g"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "마늘 30g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "마늘 10g"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "마늘(20g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "마늘(20g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "마늘(10g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "마늘(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "마늘기름",
+    "recipes": [
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "마늘기름 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "마른 고추",
+    "recipes": [
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "마른 고추(3g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "마른 고추(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "마른 다시마",
+    "recipes": [
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "마른 다시마(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "마요네즈",
+    "recipes": [
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "마요네즈 10g(2작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "만두피",
+    "recipes": [
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "만두피 4g(2장)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "만두피(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "맛간장",
+    "recipes": [
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "맛간장 30g"
+      },
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "맛간장 30g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "맛간장 15g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "맛간장 10g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "맛간장 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "맛술",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "맛술 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "매실액",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "매실액 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "매실액(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "머스터드",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "머스터드 3g(2/3작은술)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "머스터드(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "먹물파스타",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "먹물파스타 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "메밀면",
+    "recipes": [
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "메밀면(120g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "메추리알",
+    "recipes": [
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "메추리알 30g(3개)"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "메추리알 100g"
+      }
+    ]
+  },
+  {
+    "ingredient": "멥쌀",
+    "recipes": [
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "멥쌀 10g(2작은술)"
+      },
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "멥쌀(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "멸치",
+    "recipes": [
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "멸치(10g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "멸치(10g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "멸치(10g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "멸치(2g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "멸치(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "멸치액젓",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "멸치액젓 3g(2/3작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "모시조개",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "모시조개 150g(3/4컵)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "모시조개(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "모짜렐라치즈",
+    "recipes": [
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "모짜렐라치즈(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "무",
+    "recipes": [
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "무 30g(5×3×2cm)"
+      },
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "무 250g(1/3개)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "무 20g"
+      },
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "무 10g(3cm)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "무 10g(2cm)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "무(40g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "무(50g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "무(10g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "무(30g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "무(30g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "무(20g)"
+      },
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "무(5g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "무 40g"
+      }
+    ]
+  },
+  {
+    "ingredient": "무순",
+    "recipes": [
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "무순 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "무염버터",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "무염버터 5g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "무화과",
+    "recipes": [
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "무화과(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "물",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "물 2ml(1/3작은술)"
+      },
+      {
+        "recipe_id": 33,
+        "recipe_name": "사과 새우 북엇국",
+        "raw": "물 300ml(1½컵)"
+      },
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "물 300ml(1½컵)"
+      },
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "물 300ml(1½컵)"
+      },
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "물 300ml(1½컵)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "물(300g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "물(300g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "물(300g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "물(200g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "물(250g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "물(250g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "물(250g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "물(50g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "물 700g"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "물 300g"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "물 300g"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "물(25g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "물김치국물",
+    "recipes": [
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "물김치국물 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "물엿",
+    "recipes": [
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "물엿 50g(1/4컵)"
+      }
+    ]
+  },
+  {
+    "ingredient": "미나리",
+    "recipes": [
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "미나리 10g"
+      },
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "미나리 20g"
+      },
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "미나리(20g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "미나리(20g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "미나리(20g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "미나리(10g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "미나리(3g)"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "미나리 20g"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "미나리(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "미니새송이버섯",
+    "recipes": [
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "미니새송이버섯 60g(7개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "미니파프리카",
+    "recipes": [
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "미니파프리카 40g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "미니파프리카 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "민들레 잎",
+    "recipes": [
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "민들레 잎 40g"
+      }
+    ]
+  },
+  {
+    "ingredient": "민어",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "민어 50g"
+      }
+    ]
+  },
+  {
+    "ingredient": "밀가루",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "밀가루 25g(2큰술)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "밀가루(10g)"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "밀가루 15g"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "밀가루(20g)"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "밀가루(20g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "밀가루(10g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "밀가루(100g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "밀가루(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "바나나",
+    "recipes": [
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "바나나(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "바지락",
+    "recipes": [
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "바지락(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "바질",
+    "recipes": [
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "바질 50g"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "바질(10g)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "바질(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "발사믹소스",
+    "recipes": [
+      {
+        "recipe_id": 641,
+        "recipe_name": "훈제오리가슴살 샐러드",
+        "raw": "발사믹소스(50g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "발사믹소스(20g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "발사믹소스(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "발사믹식초",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "발사믹식초 10g(2작은술)"
+      },
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "발사믹식초 60g(4큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "발사믹크레마",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "발사믹크레마 15g(1큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "방울토마토",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "방울토마토 150g(5개)"
+      },
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "방울토마토(1개)"
+      },
+      {
+        "recipe_id": 388,
+        "recipe_name": "배숙구이",
+        "raw": "방울토마토 60g"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "방울토마토 100g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "방울토마토 100g"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "방울토마토(50g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "방울토마토(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "배",
+    "recipes": [
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "배 80g(1/4개)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "배(1/4개)"
+      },
+      {
+        "recipe_id": 388,
+        "recipe_name": "배숙구이",
+        "raw": "배 750g"
+      }
+    ]
+  },
+  {
+    "ingredient": "배즙",
+    "recipes": [
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "배즙(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "배추",
+    "recipes": [
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "배추 70g(1/10개)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "배추 200g(1/3개)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "배추(40g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "배추잎",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "배추잎(5장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "배춧잎",
+    "recipes": [
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "배춧잎(5장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "백김치",
+    "recipes": [
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "백김치(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "백년초국수",
+    "recipes": [
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "백년초국수(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "백일송이",
+    "recipes": [
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "백일송이 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "백합",
+    "recipes": [
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "백합(150g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "버섯구이 새송이버섯",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "버섯구이 : 새송이버섯 70g(7개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "버섯마늘소금",
+    "recipes": [
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "버섯마늘소금 2g"
+      }
+    ]
+  },
+  {
+    "ingredient": "버터",
+    "recipes": [
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "버터 15g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "버터 20g"
+      },
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "버터 10g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "버터15g"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "버터(10g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "버터(10g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "버터(10g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "버터(5g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "버터(5g)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "버터(10g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "버터(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "베이컨",
+    "recipes": [
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "베이컨 5g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "베이컨 25g"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "베이컨(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "복분자",
+    "recipes": [
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "복분자(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "볶은 현미",
+    "recipes": [
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "볶은 현미 15g"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "볶은 현미 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "볶은 흑임자",
+    "recipes": [
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "볶은 흑임자 6g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "부추",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "부추 10g(5줄기)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "부추 10g"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "부추(30g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "부추(1g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "부추(30g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "부추(20g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "부추 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "부침가루",
+    "recipes": [
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "부침가루 45g(3큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "북어채",
+    "recipes": [
+      {
+        "recipe_id": 33,
+        "recipe_name": "사과 새우 북엇국",
+        "raw": "북어채 25g(15개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "불린 당면",
+    "recipes": [
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "불린 당면(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "붉은 고추",
+    "recipes": [
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "붉은 고추(15g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "붉은 고추(4g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "붉은 고추(5g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "붉은 고추(6g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "붉은 고추(2g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "붉은 고추(2g)"
+      },
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "붉은 고추(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "브로컬리",
+    "recipes": [
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "브로컬리(20g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "브로컬리(20g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "브로컬리(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "브로콜리",
+    "recipes": [
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "브로콜리 100g(1/4개)"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "브로콜리 50g"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "브로콜리(50g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "브로콜리(15g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "브로콜리컬리플라워 샐러드 브로콜리",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "브로콜리컬리플라워 샐러드 : 브로콜리 40g(1/5송이)"
+      }
+    ]
+  },
+  {
+    "ingredient": "블루베리",
+    "recipes": [
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "블루베리 15g(1큰술)"
+      },
+      {
+        "recipe_id": 641,
+        "recipe_name": "훈제오리가슴살 샐러드",
+        "raw": "블루베리(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "비트",
+    "recipes": [
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "비트 5g(1작은술)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "비트(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "빨강 파프리카",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "빨강 파프리카 3g(3×1cm)"
+      }
+    ]
+  },
+  {
+    "ingredient": "빵가루",
+    "recipes": [
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "빵가루(50g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "빵가루(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "뽕잎국수",
+    "recipes": [
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "뽕잎국수(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "사골육수",
+    "recipes": [
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "사골육수(300g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "사과",
+    "recipes": [
+      {
+        "recipe_id": 32,
+        "recipe_name": "순두부 사과 소스 오이무침",
+        "raw": "사과 50g(1/3개)"
+      },
+      {
+        "recipe_id": 33,
+        "recipe_name": "사과 새우 북엇국",
+        "raw": "사과 30g(1/5개)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "사과 80g(1/3개)"
+      },
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "사과 60g(1/3개)"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "사과 80g"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "사과(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "산마",
+    "recipes": [
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "산마(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "삼겹살",
+    "recipes": [
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "삼겹살 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "삼치",
+    "recipes": [
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "삼치 200g"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "삼치(150g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새송이",
+    "recipes": [
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "새송이(30g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "새송이(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새송이버섯",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "새송이버섯 15g(3개)"
+      },
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "새송이버섯(1개)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "새송이버섯(1개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새싹채소",
+    "recipes": [
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "새싹채소(0.1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새우",
+    "recipes": [
+      {
+        "recipe_id": 33,
+        "recipe_name": "사과 새우 북엇국",
+        "raw": "새우 10g(3마리)"
+      },
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "새우(3마리)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "새우(25g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "새우(20g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "새우(60g)"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "새우(대하, 3마리)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "새우(대하, 3마리)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "새우(3마리)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새우가루",
+    "recipes": [
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "새우가루(15g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새우젓",
+    "recipes": [
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "새우젓(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "새우젓국",
+    "recipes": [
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "새우젓국 15g(1큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "샐러리",
+    "recipes": [
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "샐러리 40g"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "샐러리(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "생강",
+    "recipes": [
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "생강 50g"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "생강(5g)"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "생강(10g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "생강(5g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "생강(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "생강즙",
+    "recipes": [
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "생강즙(2g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "생강즙(5g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "생강즙 0.5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "생강청",
+    "recipes": [
+      {
+        "recipe_id": 388,
+        "recipe_name": "배숙구이",
+        "raw": "생강청 50g"
+      },
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "생강청 25g"
+      },
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "생강청(3g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "생크림",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "생크림 13g(1큰술)"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "생크림 30g"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "생크림(20g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "생크림(20g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "생크림(20g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "생크림(30g)"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "생크림(50g)"
+      },
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "생크림(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "석류",
+    "recipes": [
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "석류 200g(1/2개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "석류즙",
+    "recipes": [
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "석류즙 10g(2작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "설탕",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "설탕 5g(1작은술)"
+      },
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "설탕 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "설탕 5g(1작은술)"
+      },
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "설탕 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "설탕 10g(1큰술)"
+      },
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "설탕 약간"
+      },
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "설탕 10g(2작은술)"
+      },
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "설탕 6g(1작은술)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "설탕(0.5g)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "설탕 15g"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "설탕 15g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "설탕 10g"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "설탕(20g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "설탕(10g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "설탕(10g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "설탕(10g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "설탕(3g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "소고기",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "소고기(100g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "소고기(150g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "소고기(120g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "소고기 우둔살",
+    "recipes": [
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "소고기 우둔살 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "소고기우둔살",
+    "recipes": [
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "소고기우둔살 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "소금",
+    "recipes": [
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "소금 약간"
+      },
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "소금 약간"
+      },
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "소금 0.5g"
+      },
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "소금 5g(1/2작은술)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "소금 20g(1⅓큰술)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "소금(0.2g)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "소금(0.2g)"
+      },
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "소금(0.1g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "소금(1g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "소금(0.5g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "소금(0.2g)"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "소금(0.5g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "소금(0.1g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "소금(0.5g)"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "소금(0.5g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "소금(0.5g)"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "소금 (0.2g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "소금(0.2g)"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "소금(0.3g)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "소금(0.2g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "소금(0.2g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "소금 0.75g"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "소금 0.5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "소금(",
+    "recipes": [
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "소금(0.1g"
+      }
+    ]
+  },
+  {
+    "ingredient": "소면",
+    "recipes": [
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "소면 160g"
+      },
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "소면 50g"
+      }
+    ]
+  },
+  {
+    "ingredient": "소시지",
+    "recipes": [
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "소시지 10g(1/2개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "송송 썬 붉은 고추",
+    "recipes": [
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "송송 썬 붉은 고추(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쇠고기",
+    "recipes": [
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "쇠고기(50g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "쇠고기(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쇠고기 양지",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "쇠고기 양지15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "쇠고기등심",
+    "recipes": [
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "쇠고기등심 240g"
+      }
+    ]
+  },
+  {
+    "ingredient": "수박껍질",
+    "recipes": [
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "수박껍질(17g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "숙주",
+    "recipes": [
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "숙주 100g"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "숙주(40g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "순두부",
+    "recipes": [
+      {
+        "recipe_id": 32,
+        "recipe_name": "순두부 사과 소스 오이무침",
+        "raw": "순두부 40g(1/8봉지)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "순두부(100g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "순두부(120g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "순두부(100g)"
+      },
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "순두부(150g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "스파게티",
+    "recipes": [
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "스파게티(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "스팸 마일드",
+    "recipes": [
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "스팸(마일드) 10g"
+      }
+    ]
+  },
+  {
+    "ingredient": "시금치",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "시금치 10g(3줄기)"
+      },
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "시금치 10g"
+      },
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "시금치(30g)"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "시금치 50g"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "시금치(20g)"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "시금치(30g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "시금치(20g)"
+      },
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "시금치(15g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "시금치우유 소스",
+    "recipes": [
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "시금치우유 소스 5g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "식용꽃",
+    "recipes": [
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "식용꽃(60g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "식용유",
+    "recipes": [
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "식용유 15g(1큰술)"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "식용유(10g)"
+      },
+      {
+        "recipe_id": 665,
+        "recipe_name": "연근부각",
+        "raw": "식용유(200g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "식초",
+    "recipes": [
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "식초 5g(1작은술)"
+      },
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "식초 약간"
+      },
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "식초 5g(1작은술)"
+      },
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "식초 15g(1큰술)"
+      },
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "식초 8g(1/2작은술)"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "식초 10g(2작은술)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "식초(20g)"
+      },
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "식초(10g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "식초(20g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "식초(5g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "식초(10g)"
+      },
+      {
+        "recipe_id": 665,
+        "recipe_name": "연근부각",
+        "raw": "식초(10g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "식초(10g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "식초(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "실고추",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "실고추 2g"
+      }
+    ]
+  },
+  {
+    "ingredient": "실곤약",
+    "recipes": [
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "실곤약 440g"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "실곤약(100g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "실곤약(50g)"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "실곤약 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "쌀",
+    "recipes": [
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "쌀(100g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "쌀(50g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "쌀(200g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쌀겨",
+    "recipes": [
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "쌀겨(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쌀뜨물",
+    "recipes": [
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "쌀뜨물 300g(1½컵)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쌈무",
+    "recipes": [
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "쌈무(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쌈장",
+    "recipes": [
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "쌈장(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쑥갓",
+    "recipes": [
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "쑥갓(20g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "쑥갓(10g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "쑥갓(4g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "쑥갓(4g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "쑥갓 10g"
+      }
+    ]
+  },
+  {
+    "ingredient": "아몬드",
+    "recipes": [
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "아몬드 2g(1알)"
+      },
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "아몬드 4g(1작은술)"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "아몬드(20g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "아몬드(10g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "아몬드(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "아보카도",
+    "recipes": [
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "아보카도(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "아스파라거스",
+    "recipes": [
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "아스파라거스(20g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "아스파라거스(3개)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "아스파라거스(3개)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "아스파라거스(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "아욱",
+    "recipes": [
+      {
+        "recipe_id": 395,
+        "recipe_name": "새우아욱죽",
+        "raw": "아욱 30g"
+      }
+    ]
+  },
+  {
+    "ingredient": "애느타리버섯",
+    "recipes": [
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "애느타리버섯 20g(4가닥)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "애느타리버섯 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "애호박",
+    "recipes": [
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "애호박 70g(1½개)"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "애호박(1/2개)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "애호박(1/2개)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "애호박(30g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "애호박(30g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "애호박(60g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "애호박(20g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "애호박(20g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "애호박(10g)"
+      },
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "애호박 20g"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "애호박(20g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "애호박(1/2개)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "애호박(1/2개)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "애호박 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "액젓",
+    "recipes": [
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "액젓(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "얇게 썬 쇠고기 부채살",
+    "recipes": [
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "얇게 썬 쇠고기(부채살, 80g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "양배추",
+    "recipes": [
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "양배추 150g(1/2개)"
+      },
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "양배추(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "양상추",
+    "recipes": [
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "양상추 70g(2장)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "양상추(9g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "양송이",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "양송이(5개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "양송이버섯",
+    "recipes": [
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "양송이버섯 60g(3개)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "양송이버섯(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "양송이버섯 밑동",
+    "recipes": [
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "양송이버섯 밑동(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "양파",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "양파 10g(3×1cm)"
+      },
+      {
+        "recipe_id": 33,
+        "recipe_name": "사과 새우 북엇국",
+        "raw": "양파 40g(1/4개)"
+      },
+      {
+        "recipe_id": 37,
+        "recipe_name": "된장국",
+        "raw": "양파 10g(2×1cm)"
+      },
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "양파 10g(2×1cm)"
+      },
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "양파 10g(2×1cm)"
+      },
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "양파 15g(1/8개)"
+      },
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "양파 150g(1/2개)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "양파 5g"
+      },
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "양파 40g(1/5개)"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "양파(50g)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "양파(50g)"
+      },
+      {
+        "recipe_id": 641,
+        "recipe_name": "훈제오리가슴살 샐러드",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "양파(10g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "양파(10g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "양파(10g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "양파(10g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "양파(3g)"
+      },
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "양파 20g"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "양파 50g"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "양파 50g"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "양파 50g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "양파 25g"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "양파 45g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "양파 50g"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "양파 60g"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "양파(20g)"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "양파(30g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "양파 10g"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "양파(10g)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "양파(17g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "어간장",
+    "recipes": [
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "어간장 5g"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "어간장 15g"
+      },
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "어간장(3g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "어린잎",
+    "recipes": [
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "어린잎(10g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "어린잎(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "어린잎채소",
+    "recipes": [
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "어린잎채소(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "연근",
+    "recipes": [
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "연근(5g)"
+      },
+      {
+        "recipe_id": 665,
+        "recipe_name": "연근부각",
+        "raw": "연근(60g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "연근(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "연두부",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "연두부 75g(3/4모)"
+      },
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "연두부 30g(1/4모)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "연두부(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "연어",
+    "recipes": [
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "연어(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "연유",
+    "recipes": [
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "연유(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "영양부추",
+    "recipes": [
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "영양부추(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오가피",
+    "recipes": [
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "오가피(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오곡",
+    "recipes": [
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "오곡(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오렌지",
+    "recipes": [
+      {
+        "recipe_id": 108,
+        "recipe_name": "오렌지와 당근 만남주스",
+        "raw": "오렌지 100g(1/2개)"
+      },
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "오렌지(1개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오렌지 껍질",
+    "recipes": [
+      {
+        "recipe_id": 201,
+        "recipe_name": "민들레 샐러드",
+        "raw": "오렌지(껍질) 40g(1/5개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오렌지즙",
+    "recipes": [
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "오렌지즙 15g(1큰술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오리고기 훈제오리 가슴살",
+    "recipes": [
+      {
+        "recipe_id": 641,
+        "recipe_name": "훈제오리가슴살 샐러드",
+        "raw": "오리고기(훈제오리 가슴살, 150g)"
+      },
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "오리고기(훈제오리 가슴살, 150g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오미자",
+    "recipes": [
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "오미자(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오이",
+    "recipes": [
+      {
+        "recipe_id": 32,
+        "recipe_name": "순두부 사과 소스 오이무침",
+        "raw": "오이 70g(1/3개)"
+      },
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "오이 20g(1/4개)"
+      },
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "오이 20g(1/8개)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "오이(50g)"
+      },
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "오이(30g)"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "오이 25g"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "오이(20g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "오이(20g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "오이(20g)"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "오이(50g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "오이(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오이고추",
+    "recipes": [
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "오이고추(40g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "오징어",
+    "recipes": [
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "오징어(100g)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "오징어 300g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "오징어 1마리(220g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "오징어(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "옥수수",
+    "recipes": [
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "옥수수 30g"
+      }
+    ]
+  },
+  {
+    "ingredient": "올리고당",
+    "recipes": [
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "올리고당 15g"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "올리고당(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "올리브오일",
+    "recipes": [
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "올리브오일 5g(1작은술)"
+      },
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "올리브오일 25g(2큰술)"
+      },
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "올리브오일(20g)"
+      },
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "올리브오일 30g"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "올리브오일(20g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "올리브오일(10g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "올리브오일(10g)"
+      },
+      {
+        "recipe_id": 663,
+        "recipe_name": "시금치브로컬리 파스타",
+        "raw": "올리브오일(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "올리브유",
+    "recipes": [
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "올리브유 10g(2작은술)"
+      },
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "올리브유 10g(2작은술)"
+      },
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "올리브유 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "올리브유 약간"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "올리브유(15g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "와사비",
+    "recipes": [
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "와사비(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "와인",
+    "recipes": [
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "와인(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "요리당",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "요리당 2g(1/3작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "우렁이",
+    "recipes": [
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "우렁이(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "우민찌",
+    "recipes": [
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "우민찌 5g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "우유",
+    "recipes": [
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "우유 10g(2작은술)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "우유(100g)"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "우유 200g"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "우유(20g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "우유(50g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "우유(50g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "우유(200g)"
+      },
+      {
+        "recipe_id": 297,
+        "recipe_name": "아몬드치킨볼",
+        "raw": "우유(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "월계수잎",
+    "recipes": [
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "월계수잎(1장)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "월계수잎(1장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "유자청",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "유자청 20g(1⅓큰술)"
+      },
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "유자청(20g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "유자청(20g)"
+      },
+      {
+        "recipe_id": 509,
+        "recipe_name": "유자삼치구이",
+        "raw": "유자청(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "육수",
+    "recipes": [
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "육수(200g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "육수(200g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "육수(400g)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "육수(200g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "인삼",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "인삼(1뿌리)"
+      },
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "인삼(1뿌리)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "인삼(1뿌리)"
+      }
+    ]
+  },
+  {
+    "ingredient": "자색고구마",
+    "recipes": [
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "자색고구마 10g(3cm)"
+      }
+    ]
+  },
+  {
+    "ingredient": "잣",
+    "recipes": [
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "잣 4g(1작은술)"
+      },
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "잣(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염 된장",
+    "recipes": [
+      {
+        "recipe_id": 395,
+        "recipe_name": "새우아욱죽",
+        "raw": "저염 된장 30g"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염간장",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "저염간장 3g(2/3작은술)"
+      },
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "저염간장 5g(1작은술)"
+      },
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "저염간장 4g(1작은술)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "저염간장(20g)"
+      },
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "저염간장(20g)"
+      },
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "저염간장(20g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "저염간장(10g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "저염간장(30g)"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "저염간장(20g)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "저염간장(2.5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염국간장",
+    "recipes": [
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "저염국간장(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염된장",
+    "recipes": [
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "저염된장 10g(2작은술)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "저염된장 15g(1큰술)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "저염된장(10g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "저염된장(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염버터",
+    "recipes": [
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "저염버터(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염베이컨",
+    "recipes": [
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "저염베이컨(60g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염살라미",
+    "recipes": [
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "저염살라미 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "저염소금",
+    "recipes": [
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "저염소금 4g(1작은술)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "저염소금(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "적양배추",
+    "recipes": [
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "적양배추 15g(5×3cm)"
+      }
+    ]
+  },
+  {
+    "ingredient": "적양파",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "적양파 10g(2×1cm)"
+      }
+    ]
+  },
+  {
+    "ingredient": "전복",
+    "recipes": [
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "전복(2개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "전분가루",
+    "recipes": [
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "전분가루 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "절임물 해물육수",
+    "recipes": [
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "절임물 : 해물육수(8g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "정종",
+    "recipes": [
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "정종(10g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "정종(5g)"
+      },
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "정종(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "조랭이떡",
+    "recipes": [
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "조랭이떡(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "조선부추",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "[1인분]조선부추 50g"
+      }
+    ]
+  },
+  {
+    "ingredient": "주꾸미",
+    "recipes": [
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "주꾸미(40g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "주꾸미(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "쪽파",
+    "recipes": [
+      {
+        "recipe_id": 159,
+        "recipe_name": "석류 보쌈김치",
+        "raw": "쪽파 10g(1개)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "쪽파 10g(10cm)"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "쪽파(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "찬밥",
+    "recipes": [
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "찬밥 60g"
+      }
+    ]
+  },
+  {
+    "ingredient": "참기름",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "참기름 2g(1/3작은술)"
+      },
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "참기름 2g(1/2작은술)"
+      },
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "참기름 약간"
+      },
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "참기름 약간"
+      },
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "참기름(5g)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "참기름(20g)"
+      },
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "참기름(8g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "참기름(10g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "참기름(3g)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "참기름 15g"
+      },
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "참기름 15g"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "참기름(5g)"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "참기름 0.5g"
+      },
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "참기름(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "참깨",
+    "recipes": [
+      {
+        "recipe_id": 29,
+        "recipe_name": "부추 콩가루 찜",
+        "raw": "참깨 약간"
+      },
+      {
+        "recipe_id": 644,
+        "recipe_name": "검은콩국수",
+        "raw": "참깨(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "참나물",
+    "recipes": [
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "참나물(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "찹쌀",
+    "recipes": [
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "찹쌀(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "찹쌀가루",
+    "recipes": [
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "찹쌀가루(3g)"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "찹쌀가루 100g"
+      },
+      {
+        "recipe_id": 672,
+        "recipe_name": "해물애호박 전병말이",
+        "raw": "찹쌀가루(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "천일염",
+    "recipes": [
+      {
+        "recipe_id": 665,
+        "recipe_name": "연근부각",
+        "raw": "천일염(0.1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "청경채",
+    "recipes": [
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "청경채 20g(1개)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "청경채(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "청고추",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "청고추 20g(1개)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "청고추 15g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "청고추 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "청양고추",
+    "recipes": [
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "청양고추 5g(1/2개)"
+      },
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "청양고추 10g(1/2개)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "청양고추 5g"
+      },
+      {
+        "recipe_id": 181,
+        "recipe_name": "양배추감자전",
+        "raw": "청양고추 5g(1개)"
+      },
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "청양고추 5g(1/2개)"
+      },
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "청양고추(3g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "청양고추(5g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "청양고추(5g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "청양고추(1g)"
+      },
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "청양고추(2g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "청주",
+    "recipes": [
+      {
+        "recipe_id": 271,
+        "recipe_name": "닭고기김치찌개",
+        "raw": "청주(10g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "청주(15g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "청파프리카",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "청파프리카 10g(1/10개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "청포묵",
+    "recipes": [
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "청포묵(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "청피망",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "청피망 3g(3×1cm)"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "청피망(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "치자가루",
+    "recipes": [
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "치자가루(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "치자국수",
+    "recipes": [
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "치자국수(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "치즈",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "치즈 25g"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "치즈(1장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "치즈가루",
+    "recipes": [
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "치즈가루 15g"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "치즈가루 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "치커리",
+    "recipes": [
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "치커리 약간"
+      }
+    ]
+  },
+  {
+    "ingredient": "치커리 샐러드 치커리",
+    "recipes": [
+      {
+        "recipe_id": 95,
+        "recipe_name": "치커리샐러드와 올리브 마늘 소스",
+        "raw": "치커리 샐러드 : 치커리 30g(10줄기)"
+      }
+    ]
+  },
+  {
+    "ingredient": "카레가루",
+    "recipes": [
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "카레가루 25g"
+      },
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "카레가루(30g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "카레가루(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "칵테일새우",
+    "recipes": [
+      {
+        "recipe_id": 28,
+        "recipe_name": "새우 두부 계란찜",
+        "raw": "칵테일새우 20g(5마리)"
+      },
+      {
+        "recipe_id": 395,
+        "recipe_name": "새우아욱죽",
+        "raw": "칵테일새우 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "커피",
+    "recipes": [
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "커피 1g"
+      }
+    ]
+  },
+  {
+    "ingredient": "컬리플라워",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "컬리플라워 40g(1/3송이)"
+      }
+    ]
+  },
+  {
+    "ingredient": "코코넛밀크",
+    "recipes": [
+      {
+        "recipe_id": 503,
+        "recipe_name": "코코넛밀크카레",
+        "raw": "코코넛밀크(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콜라비",
+    "recipes": [
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "콜라비(1/2개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콜리플라워",
+    "recipes": [
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "콜리플라워(50g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "콜리플라워(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콩 백태",
+    "recipes": [
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "콩(백태, 30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콩가루",
+    "recipes": [
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "콩가루(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콩고기",
+    "recipes": [
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "콩고기(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콩나물",
+    "recipes": [
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "콩나물 30g(1/6봉지)"
+      },
+      {
+        "recipe_id": 272,
+        "recipe_name": "완자김치찌개",
+        "raw": "콩나물(30g)"
+      },
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "콩나물(20g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "콩나물(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "콩비지",
+    "recipes": [
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "콩비지(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "퀴노아",
+    "recipes": [
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "퀴노아(8g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "크랜베리",
+    "recipes": [
+      {
+        "recipe_id": 89,
+        "recipe_name": "시금치 우유 소스와 그린매쉬드포테이토",
+        "raw": "크랜베리 3g"
+      }
+    ]
+  },
+  {
+    "ingredient": "탄산수",
+    "recipes": [
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "탄산수 50ml"
+      },
+      {
+        "recipe_id": 388,
+        "recipe_name": "배숙구이",
+        "raw": "탄산수 200g"
+      }
+    ]
+  },
+  {
+    "ingredient": "토란",
+    "recipes": [
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "토란(40g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "토마토",
+    "recipes": [
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "토마토 50g(1/2개)"
+      },
+      {
+        "recipe_id": 193,
+        "recipe_name": "고추장 라따뚜이",
+        "raw": "토마토 600g(3개)"
+      },
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "토마토 200g(1½개)"
+      },
+      {
+        "recipe_id": 645,
+        "recipe_name": "겨자소스로 구운 산마샐러드",
+        "raw": "토마토(100g)"
+      },
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "토마토 100g"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "토마토(30g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "토마토(50g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "토마토(20g)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "토마토(17g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "토마토겉절이 토마토",
+    "recipes": [
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "토마토겉절이 : 토마토 80g"
+      }
+    ]
+  },
+  {
+    "ingredient": "통깨",
+    "recipes": [
+      {
+        "recipe_id": 31,
+        "recipe_name": "방울토마토 소박이",
+        "raw": "통깨 약간"
+      },
+      {
+        "recipe_id": 386,
+        "recipe_name": "다이어트국수",
+        "raw": "통깨 3g"
+      },
+      {
+        "recipe_id": 393,
+        "recipe_name": "맛간장삼치구이",
+        "raw": "통깨 1g"
+      },
+      {
+        "recipe_id": 399,
+        "recipe_name": "고추김치",
+        "raw": "통깨(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "통마늘",
+    "recipes": [
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "통마늘(10g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "통마늘 15g"
+      }
+    ]
+  },
+  {
+    "ingredient": "통삼겹살",
+    "recipes": [
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "통삼겹살(150g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "통오징어",
+    "recipes": [
+      {
+        "recipe_id": 513,
+        "recipe_name": "오징어순대",
+        "raw": "통오징어(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "통조림 햄",
+    "recipes": [
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "통조림 햄(30g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "통조림 햄(30g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "통후추",
+    "recipes": [
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "통후추 2g"
+      },
+      {
+        "recipe_id": 514,
+        "recipe_name": "연어차우더스프",
+        "raw": "통후추(3알)"
+      },
+      {
+        "recipe_id": 300,
+        "recipe_name": "콩고기샐러드",
+        "raw": "통후추(1g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "튀김기름",
+    "recipes": [
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "튀김기름(200g)"
+      },
+      {
+        "recipe_id": 502,
+        "recipe_name": "치즈감자크로켓",
+        "raw": "튀김기름(400g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "튀김기름(400g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "파",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "파 140g(1/2개)"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "파 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "파슬리",
+    "recipes": [
+      {
+        "recipe_id": 641,
+        "recipe_name": "훈제오리가슴살 샐러드",
+        "raw": "파슬리(5g)"
+      },
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "파슬리(5g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "파슬리가루",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "파슬리가루 1g"
+      },
+      {
+        "recipe_id": 389,
+        "recipe_name": "웰빙스테이크",
+        "raw": "파슬리가루 1g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "파슬리가루 2g"
+      }
+    ]
+  },
+  {
+    "ingredient": "파프리카",
+    "recipes": [
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "파프리카(50g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "파프리카(20g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "파프리카(30g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "파프리카(20g)"
+      },
+      {
+        "recipe_id": 511,
+        "recipe_name": "닭고기또띠아",
+        "raw": "파프리카(20g)"
+      },
+      {
+        "recipe_id": 664,
+        "recipe_name": "야채찜을 곁들인 광어스테이크",
+        "raw": "파프리카(50g)"
+      },
+      {
+        "recipe_id": 667,
+        "recipe_name": "카레탄두리치킨과 닭가슴살냉채",
+        "raw": "파프리카(50g)"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "파프리카(50g)"
+      },
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "파프리카(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "팽이버섯",
+    "recipes": [
+      {
+        "recipe_id": 274,
+        "recipe_name": "오징어김치찌개",
+        "raw": "팽이버섯(20g)"
+      },
+      {
+        "recipe_id": 275,
+        "recipe_name": "해물김치찌개",
+        "raw": "팽이버섯(3g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "팽이버섯(30g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "팽이버섯(40g)"
+      },
+      {
+        "recipe_id": 279,
+        "recipe_name": "쑥갓부대찌개",
+        "raw": "팽이버섯(20g)"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "팽이버섯 20g"
+      }
+    ]
+  },
+  {
+    "ingredient": "펜네",
+    "recipes": [
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "펜네(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "표고버섯",
+    "recipes": [
+      {
+        "recipe_id": 33,
+        "recipe_name": "사과 새우 북엇국",
+        "raw": "표고버섯 20g(2장)"
+      },
+      {
+        "recipe_id": 38,
+        "recipe_name": "표고버섯 청경채국",
+        "raw": "표고버섯 20g(2장)"
+      },
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "표고버섯 20g(2개)"
+      },
+      {
+        "recipe_id": 636,
+        "recipe_name": "우렁된장소스 배추롤",
+        "raw": "표고버섯(2개)"
+      },
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "표고버섯(1개)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "표고버섯(10g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "표고버섯(14g)"
+      },
+      {
+        "recipe_id": 280,
+        "recipe_name": "들깨순두부찌개",
+        "raw": "표고버섯(10g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "표고버섯(10g)"
+      },
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "표고버섯(3g)"
+      },
+      {
+        "recipe_id": 283,
+        "recipe_name": "토란순두부찌개",
+        "raw": "표고버섯(20g)"
+      },
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "표고버섯(3개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "표고버섯 밑동",
+    "recipes": [
+      {
+        "recipe_id": 282,
+        "recipe_name": "버섯순두부찌개",
+        "raw": "표고버섯 밑동(3g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "풋 고추",
+    "recipes": [
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "풋 고추 5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "풋고추",
+    "recipes": [
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "풋고추(10g)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "풋고추(6g)"
+      },
+      {
+        "recipe_id": 281,
+        "recipe_name": "백태순두부찌개",
+        "raw": "풋고추(2g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "플레인 요구르트",
+    "recipes": [
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "플레인 요구르트(25g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "플레인요거트",
+    "recipes": [
+      {
+        "recipe_id": 87,
+        "recipe_name": "스트로베리 샐러드",
+        "raw": "플레인요거트 85g(1개)"
+      },
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "플레인요거트 20g(1⅓큰술)"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "플레인요거트(50g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "플레인요거트(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "피망",
+    "recipes": [
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "피망 20g"
+      },
+      {
+        "recipe_id": 669,
+        "recipe_name": "콜라비오미자 물김치",
+        "raw": "피망(30g)"
+      },
+      {
+        "recipe_id": 299,
+        "recipe_name": "생선베이컨말이",
+        "raw": "피망(5g)"
+      },
+      {
+        "recipe_id": 301,
+        "recipe_name": "퀴노아닭가슴살샐러드",
+        "raw": "피망(34g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "하얀된장",
+    "recipes": [
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "하얀된장(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "함초",
+    "recipes": [
+      {
+        "recipe_id": 131,
+        "recipe_name": "함초 냉이 국수",
+        "raw": "함초 3g(1/2작은술)"
+      },
+      {
+        "recipe_id": 278,
+        "recipe_name": "삼계부대찌개",
+        "raw": "함초(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "함초가루",
+    "recipes": [
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "함초가루(10g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "함초소금",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "함초소금 1g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "함초소금 1g"
+      }
+    ]
+  },
+  {
+    "ingredient": "해바라기씨",
+    "recipes": [
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "해바라기씨 4g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "해초",
+    "recipes": [
+      {
+        "recipe_id": 643,
+        "recipe_name": "간장소스를 곁들인 새우전복찜",
+        "raw": "해초(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "현미",
+    "recipes": [
+      {
+        "recipe_id": 298,
+        "recipe_name": "양배추롤",
+        "raw": "현미(50g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "호두",
+    "recipes": [
+      {
+        "recipe_id": 94,
+        "recipe_name": "브로콜리 컬리플라워 샐러드와 두유 요거트 소스",
+        "raw": "호두 1/2알"
+      },
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "호두 4g(1작은술)"
+      },
+      {
+        "recipe_id": 113,
+        "recipe_name": "블랙빈 곤약국수",
+        "raw": "호두 6g(1알)"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "호두(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "호박",
+    "recipes": [
+      {
+        "recipe_id": 93,
+        "recipe_name": "구운채소와 간장레몬 소스",
+        "raw": "호박 50g(1/3개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "호박씨",
+    "recipes": [
+      {
+        "recipe_id": 111,
+        "recipe_name": "칠곡석류국수",
+        "raw": "호박씨 4g(1작은술)"
+      }
+    ]
+  },
+  {
+    "ingredient": "호박잎",
+    "recipes": [
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "호박잎(5장)"
+      }
+    ]
+  },
+  {
+    "ingredient": "홀토마토",
+    "recipes": [
+      {
+        "recipe_id": 385,
+        "recipe_name": "토마토스프파스타",
+        "raw": "홀토마토 200g"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "홀토마토 50g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "홀토마토 100g"
+      }
+    ]
+  },
+  {
+    "ingredient": "홍고추",
+    "recipes": [
+      {
+        "recipe_id": 137,
+        "recipe_name": "된장 두부찌개",
+        "raw": "홍고추 5g(1/4개)"
+      },
+      {
+        "recipe_id": 138,
+        "recipe_name": "부대된장찌개",
+        "raw": "홍고추 1g"
+      },
+      {
+        "recipe_id": 74,
+        "recipe_name": "돌나물 샐러드",
+        "raw": "홍고추 5g(1/2개)"
+      },
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "홍고추 15g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "홍고추 15g"
+      },
+      {
+        "recipe_id": 666,
+        "recipe_name": "오이냉국을 곁들인 오색쌈밥",
+        "raw": "홍고추(1개)"
+      },
+      {
+        "recipe_id": 671,
+        "recipe_name": "표고버섯 감자찜",
+        "raw": "홍고추(1개)"
+      },
+      {
+        "recipe_id": 674,
+        "recipe_name": "감자느타리버섯국",
+        "raw": "홍고추 3g"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "홍고추 2.5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "홍파프리카",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "홍파프리카 10g(1/10개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "화이트와인",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "화이트와인 10g(2작은술)"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "화이트와인 25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "황금팽이버섯",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "황금팽이버섯 10g"
+      }
+    ]
+  },
+  {
+    "ingredient": "황태 채",
+    "recipes": [
+      {
+        "recipe_id": 36,
+        "recipe_name": "저염 된장으로 맛을 낸 황태해장국",
+        "raw": "황태(채) 15g(10개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "황태채",
+    "recipes": [
+      {
+        "recipe_id": 640,
+        "recipe_name": "황태미역 곤약스프",
+        "raw": "황태채(100g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "황파프리카",
+    "recipes": [
+      {
+        "recipe_id": 161,
+        "recipe_name": "유자 대구조림",
+        "raw": "황파프리카 10g(1/10개)"
+      },
+      {
+        "recipe_id": 162,
+        "recipe_name": "파프리카 물김치",
+        "raw": "황파프리카 140g(1½개)"
+      }
+    ]
+  },
+  {
+    "ingredient": "후르츠칵테일",
+    "recipes": [
+      {
+        "recipe_id": 388,
+        "recipe_name": "배숙구이",
+        "raw": "후르츠칵테일 150g"
+      }
+    ]
+  },
+  {
+    "ingredient": "후추",
+    "recipes": [
+      {
+        "recipe_id": 387,
+        "recipe_name": "오징어구이",
+        "raw": "후추 1g"
+      },
+      {
+        "recipe_id": 394,
+        "recipe_name": "삼겹살꼬치구이",
+        "raw": "후추 1g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "후추 1g"
+      },
+      {
+        "recipe_id": 677,
+        "recipe_name": "민어매운탕",
+        "raw": "후추 0.25g"
+      }
+    ]
+  },
+  {
+    "ingredient": "후춧가루",
+    "recipes": [
+      {
+        "recipe_id": 114,
+        "recipe_name": "닭가슴살 브로콜리 만두",
+        "raw": "후춧가루 0.1g"
+      },
+      {
+        "recipe_id": 202,
+        "recipe_name": "토마토 가지 카프레제",
+        "raw": "후춧가루 2g(1/2작은술)"
+      },
+      {
+        "recipe_id": 637,
+        "recipe_name": "인삼떡갈비",
+        "raw": "후춧가루(0.01g)"
+      },
+      {
+        "recipe_id": 638,
+        "recipe_name": "초계탕과 사색곤약",
+        "raw": "후춧가루(0.01g)"
+      },
+      {
+        "recipe_id": 639,
+        "recipe_name": "호박잎 삼계탕",
+        "raw": "후춧가루(0.01g)"
+      },
+      {
+        "recipe_id": 273,
+        "recipe_name": "백김치콩비지찌개",
+        "raw": "후춧가루(0.2g)"
+      },
+      {
+        "recipe_id": 276,
+        "recipe_name": "맑은부대찌개",
+        "raw": "후춧가루(0.1g)"
+      },
+      {
+        "recipe_id": 277,
+        "recipe_name": "나가사키부대찌개",
+        "raw": "후춧가루(1g)"
+      },
+      {
+        "recipe_id": 500,
+        "recipe_name": "누룽닭",
+        "raw": "후춧가루(0.1g)"
+      },
+      {
+        "recipe_id": 501,
+        "recipe_name": "광어스테이크",
+        "raw": "후춧가루(0.02g)"
+      },
+      {
+        "recipe_id": 504,
+        "recipe_name": "소고기리조또롤",
+        "raw": "후춧가루(0.02g)"
+      },
+      {
+        "recipe_id": 505,
+        "recipe_name": "둥지튀김",
+        "raw": "후춧가루(0.2g)"
+      },
+      {
+        "recipe_id": 506,
+        "recipe_name": "새우와스테이크",
+        "raw": "후춧가루(2g)"
+      },
+      {
+        "recipe_id": 507,
+        "recipe_name": "함초삼겹",
+        "raw": "후춧가루(0.2g)"
+      },
+      {
+        "recipe_id": 508,
+        "recipe_name": "햄버거스테이크",
+        "raw": "후춧가루(0.2g)"
+      },
+      {
+        "recipe_id": 510,
+        "recipe_name": "냉토마토파스타",
+        "raw": "후춧가루(0.1g)"
+      },
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "후춧가루(0.1g)"
+      },
+      {
+        "recipe_id": 668,
+        "recipe_name": "컬리플라워소스 광어스테이크",
+        "raw": "후춧가루(0.01g)"
+      },
+      {
+        "recipe_id": 670,
+        "recipe_name": "크림소스치킨롤",
+        "raw": "후춧가루(0.01g)"
+      },
+      {
+        "recipe_id": 673,
+        "recipe_name": "찬밥이용닭죽",
+        "raw": "후춧가루 0.3g"
+      }
+    ]
+  },
+  {
+    "ingredient": "후춧가루(",
+    "recipes": [
+      {
+        "recipe_id": 642,
+        "recipe_name": "훈제오리가슴살크러스트",
+        "raw": "후춧가루(0.5g"
+      }
+    ]
+  },
+  {
+    "ingredient": "흑임자",
+    "recipes": [
+      {
+        "recipe_id": 512,
+        "recipe_name": "닭고기스테이크",
+        "raw": "흑임자(20g)"
+      }
+    ]
+  },
+  {
+    "ingredient": "흰 후추",
+    "recipes": [
+      {
+        "recipe_id": 91,
+        "recipe_name": "버섯구이와 두부타르타르 소스",
+        "raw": "흰 후추 약간"
+      }
+    ]
+  },
+  {
+    "ingredient": "흰후추",
+    "recipes": [
+      {
+        "recipe_id": 390,
+        "recipe_name": "오징어콩순대",
+        "raw": "흰후추 1g"
+      },
+      {
+        "recipe_id": 391,
+        "recipe_name": "토마토소고기장조림",
+        "raw": "흰후추 1g"
+      },
+      {
+        "recipe_id": 392,
+        "recipe_name": "토마토소고기찜",
+        "raw": "흰후추 1g"
+      },
+      {
+        "recipe_id": 396,
+        "recipe_name": "까르보나라뇨끼",
+        "raw": "흰후추 3g"
+      },
+      {
+        "recipe_id": 397,
+        "recipe_name": "호박죽",
+        "raw": "흰후추 1g"
+      },
+      {
+        "recipe_id": 398,
+        "recipe_name": "라이스버거떡갈비",
+        "raw": "흰후추 1g"
+      }
+    ]
+  }
+]

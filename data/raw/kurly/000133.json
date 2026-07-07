@@ -1,0 +1,1508 @@
+{
+  "search_keyword": "산마",
+  "ingredients": [
+    "산마"
+  ],
+  "response": {
+    "success": true,
+    "message": null,
+    "data": {
+      "topSections": [],
+      "listSections": [
+        {
+          "view": {
+            "sectionCode": "PRODUCT_LIST",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "no": 1001453583,
+                "name": "산마 700g (2~3뿌리)",
+                "shortDescription": "야생에서 자란 찐득한 마 ",
+                "listImageUrl": "https://product-image.kurly.com/product/image/db5a32a4-f41d-40be-b7b8-c2b22c19ac28.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/db5a32a4-f41d-40be-b7b8-c2b22c19ac28.jpg",
+                "salesPrice": 11900,
+                "discountedPrice": null,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "DEFAULT",
+                "position": 1,
+                "reviewCount": "174",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125144,
+                "name": "[산타마리아노벨라] 토니코 페르 라 펠레 250ml (고수분 골드토너)",
+                "shortDescription": "쫀쫀한 고보습 영양 토너",
+                "listImageUrl": "https://product-image.kurly.com/product/image/2c34b39a-9ae6-4a9b-bd1d-0ad2be026707.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/2c34b39a-9ae6-4a9b-bd1d-0ad2be026707.jpg",
+                "salesPrice": 69000,
+                "discountedPrice": 65550,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 2,
+                "reviewCount": "299",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125213,
+                "name": "[산타마리아노벨라] 아쿠아 디 로즈 장미수 토너 250/500ml 2종 (택1) ",
+                "shortDescription": "사계절 멀티 토너",
+                "listImageUrl": "https://product-image.kurly.com/product/image/c468f828-75d7-4352-8bf8-ab3abe5e352f.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/c468f828-75d7-4352-8bf8-ab3abe5e352f.jpg",
+                "salesPrice": 39000,
+                "discountedPrice": 37050,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 3,
+                "reviewCount": "999+",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125222,
+                "name": "[산타마리아노벨라] 크레마 플루이다 라이트패키지 (바디로션) 250ml 8종 (택1)",
+                "shortDescription": "살갗에 입히는 감각적인 향기",
+                "listImageUrl": "https://product-image.kurly.com/product/image/5c79f4ef-2ad2-453c-9722-60fb6791aafa.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5c79f4ef-2ad2-453c-9722-60fb6791aafa.jpg",
+                "salesPrice": 85000,
+                "discountedPrice": 80750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 4,
+                "reviewCount": "335",
+                "shortUrl": null
+              },
+              {
+                "no": 1000147470,
+                "name": "[산타마리아노벨라] 오드코롱 향수 50ml 10종 (택1) ",
+                "shortDescription": "오랜 역사와 이야기를 간직한 베스트셀러",
+                "listImageUrl": "https://product-image.kurly.com/product/image/26d3ef53-a40c-4e4b-9a93-a3732d5000e6.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/26d3ef53-a40c-4e4b-9a93-a3732d5000e6.jpg",
+                "salesPrice": 145000,
+                "discountedPrice": 137750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 5,
+                "reviewCount": "576",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125142,
+                "name": "[산타마리아노벨라] 크레마 칼렌둘라 100ml (페이스&바디크림)",
+                "shortDescription": "민감 피부를 위한 보습크림",
+                "listImageUrl": "https://product-image.kurly.com/product/image/e05f1607-d818-4073-a65a-33014cb16a2b.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/e05f1607-d818-4073-a65a-33014cb16a2b.jpg",
+                "salesPrice": 78000,
+                "discountedPrice": 74100,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 6,
+                "reviewCount": "38",
+                "shortUrl": null
+              },
+              {
+                "no": 1000942687,
+                "name": "[산타마리아노벨라] 센티드 캔들 피렌체 1221 250G 8종 (택1) ",
+                "shortDescription": "공간에 더하는 향기와 무드",
+                "listImageUrl": "https://product-image.kurly.com/product/image/73bfb18a-3ec0-453c-a525-031bb6d51a25.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/73bfb18a-3ec0-453c-a525-031bb6d51a25.jpg",
+                "salesPrice": 122000,
+                "discountedPrice": 115900,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 7,
+                "reviewCount": "23",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125207,
+                "name": "[산타마리아노벨라] 프리지아 오드코롱 향수 50/100ml 2종 (택1)",
+                "shortDescription": "깨끗하고 청초한 프리지아의 향기",
+                "listImageUrl": "https://product-image.kurly.com/product/image/985a9ab4-18f5-4503-94a3-dc468d06dd69.jpeg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/985a9ab4-18f5-4503-94a3-dc468d06dd69.jpeg",
+                "salesPrice": 145000,
+                "discountedPrice": 137750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 8,
+                "reviewCount": "354",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125192,
+                "name": "[산타마리아노벨라] 멜로그라노 오드코롱 향수 50/100ml 2종 (택1)",
+                "shortDescription": "따스했던 기억처럼 포근한 향기",
+                "listImageUrl": "https://product-image.kurly.com/product/image/ccf4273a-4e82-4588-9c40-bedbbc35a1d6.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ccf4273a-4e82-4588-9c40-bedbbc35a1d6.jpg",
+                "salesPrice": 145000,
+                "discountedPrice": 137750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 9,
+                "reviewCount": "109",
+                "shortUrl": null
+              },
+              {
+                "no": 1000147481,
+                "name": "[산타마리아노벨라] 오드코롱 향수 100ml 9종 (택1)",
+                "shortDescription": "섬세한 향기로 전하는 마음",
+                "listImageUrl": "https://product-image.kurly.com/product/image/76b4ec25-e9ae-4e7b-af2d-da08bc606e6b.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/76b4ec25-e9ae-4e7b-af2d-da08bc606e6b.jpg",
+                "salesPrice": 210000,
+                "discountedPrice": 199500,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 10,
+                "reviewCount": "258",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125158,
+                "name": "[산타마리아노벨라] 올리오 코스메티코 250ml (바디오일)",
+                "shortDescription": "가볍게 스며 오래가는 보습",
+                "listImageUrl": "https://product-image.kurly.com/product/image/24a12d45-2d29-4765-aefe-d47fcd73ecb0.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/24a12d45-2d29-4765-aefe-d47fcd73ecb0.jpg",
+                "salesPrice": 110000,
+                "discountedPrice": 104500,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 11,
+                "reviewCount": "104",
+                "shortUrl": null
+              },
+              {
+                "no": 1000136622,
+                "name": "[산타마리아노벨라] 올리오 데르모프로텍티보 (멜로그라노 탄력오일 250ml)",
+                "shortDescription": "따스한 잔향을 남기는 바디 오일",
+                "listImageUrl": "https://product-image.kurly.com/product/image/8b4b755c-9666-4a7f-a97e-01421827758c.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/8b4b755c-9666-4a7f-a97e-01421827758c.jpg",
+                "salesPrice": 90000,
+                "discountedPrice": 85500,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 12,
+                "reviewCount": "90",
+                "shortUrl": null
+              },
+              {
+                "no": 1001464390,
+                "name": "[산타마리아노벨라] 메디치 가든 컬렉션 - 오 드 퍼퓸 100ml 6종(택1)_스페셜프라이스 (장미수토너 10ml *5개 증정)",
+                "shortDescription": "메디치 가문의 이야기가 담긴 향수",
+                "listImageUrl": "https://product-image.kurly.com/product/image/6643982f-5d2c-4855-bac7-7f4cc988697f.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/6643982f-5d2c-4855-bac7-7f4cc988697f.jpg",
+                "salesPrice": 365000,
+                "discountedPrice": 350400,
+                "discountRate": 4.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 13,
+                "reviewCount": "11",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125150,
+                "name": "[산타마리아노벨라] 이드랄리아 크림 50ml (수분 장미크림) ",
+                "shortDescription": "탄탄하게 지속되는 촉촉함, 추석 한정 증정 기획 세트",
+                "listImageUrl": "https://product-image.kurly.com/product/image/f3a59179-08cb-444c-ac9c-56856fb955ca.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/f3a59179-08cb-444c-ac9c-56856fb955ca.jpg",
+                "salesPrice": 127000,
+                "discountedPrice": 120650,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 14,
+                "reviewCount": "125",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125156,
+                "name": "[산타마리아노벨라] 크레마 이드라솔 250ml (바디크림)",
+                "shortDescription": "피부 깊숙이 전하는 진한 보습",
+                "listImageUrl": "https://product-image.kurly.com/product/image/5c3ef7a1-0072-4eda-8df2-0cd7e06f453a.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5c3ef7a1-0072-4eda-8df2-0cd7e06f453a.jpg",
+                "salesPrice": 151000,
+                "discountedPrice": 143450,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 15,
+                "reviewCount": "34",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125186,
+                "name": "[산타마리아노벨라] 로사가데니아 오드코롱 향수 50/100ml 2종 (택1)",
+                "shortDescription": "장미와 가데니아의 우아한 하모니",
+                "listImageUrl": "https://product-image.kurly.com/product/image/ed044529-801b-410a-ad1a-8ad4b6a7d097.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ed044529-801b-410a-ad1a-8ad4b6a7d097.jpg",
+                "salesPrice": 145000,
+                "discountedPrice": 137750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 16,
+                "reviewCount": "129",
+                "shortUrl": null
+              },
+              {
+                "no": 1000363506,
+                "name": "[산타마리아노벨라] 토니코 페르 라펠레(영양 토너) & 이드랄리아 크림(수분 장미크림) 기획세트 (+쇼핑백 증정)",
+                "shortDescription": "럭셔리 스킨케어 기프트 세트",
+                "listImageUrl": "https://product-image.kurly.com/product/image/1e2dfb45-ef77-4998-b3dc-50e44f071110.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/1e2dfb45-ef77-4998-b3dc-50e44f071110.jpg",
+                "salesPrice": 196000,
+                "discountedPrice": 186200,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [
+                  {
+                    "code": "1",
+                    "name": "Kurly Only",
+                    "type": "KURLY_ONLY"
+                  }
+                ],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 17,
+                "reviewCount": "458",
+                "shortUrl": null
+              },
+              {
+                "no": 1000442043,
+                "name": "[산타마리아노벨라] 메디치 가든 컬렉션 - 오 드 퍼퓸 50ml 6종(택1)",
+                "shortDescription": "메디치 가문의 이야기가 담긴 향수",
+                "listImageUrl": "https://product-image.kurly.com/product/image/f1fc4172-b88d-4ad5-896f-f84708dea044.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/f1fc4172-b88d-4ad5-896f-f84708dea044.jpg",
+                "salesPrice": 245000,
+                "discountedPrice": 245000,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 18,
+                "reviewCount": "29",
+                "shortUrl": null
+              },
+              {
+                "no": 1000660065,
+                "name": "[산타마리아노벨라] 메디치 가든 컬렉션 크레마 플루이다(바디로션) 250ml 4종(택1)",
+                "shortDescription": "싱그러운 정원의 향기가 담긴 바디로션",
+                "listImageUrl": "https://product-image.kurly.com/product/image/abd7de21-9d90-452f-8b7d-a23eecba7ccb.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/abd7de21-9d90-452f-8b7d-a23eecba7ccb.jpg",
+                "salesPrice": 93000,
+                "discountedPrice": 93000,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 19,
+                "reviewCount": "10",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125189,
+                "name": "[산타마리아노벨라] 로사 노벨라 오드코롱 향수 50/100ml 2종 (택1)",
+                "shortDescription": "싱그러운 봄이 찾아온 피렌체의 정원",
+                "listImageUrl": "https://product-image.kurly.com/product/image/22b96dea-7064-4051-b284-03f7873a2676.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/22b96dea-7064-4051-b284-03f7873a2676.jpg",
+                "salesPrice": 145000,
+                "discountedPrice": 137750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 20,
+                "reviewCount": "21",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125195,
+                "name": "[산타마리아노벨라] 아쿠아 델라 레지나 오드코롱 향수 50/100ml 2종 (택1)",
+                "shortDescription": "산뜻하게 퍼지는 시트러스 부케 향",
+                "listImageUrl": "https://product-image.kurly.com/product/image/d011c7e7-78ad-41f3-8872-7e1aed762074.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/d011c7e7-78ad-41f3-8872-7e1aed762074.jpg",
+                "salesPrice": 145000,
+                "discountedPrice": 137750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": false,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": true,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "BUY_POSSIBLE",
+                  "direct": "BUY_POSSIBLE"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "BUY_POSSIBLE",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 21,
+                "reviewCount": "19",
+                "shortUrl": null
+              },
+              {
+                "no": 1000136618,
+                "name": "[산타마리아노벨라] 멜로그라노 인 테라코타 190g",
+                "shortDescription": "따스한 향기로 물드는 공간",
+                "listImageUrl": "https://product-image.kurly.com/product/image/a9fdb6d0-64b2-4b68-9882-4f969407f309.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a9fdb6d0-64b2-4b68-9882-4f969407f309.jpg",
+                "salesPrice": 124000,
+                "discountedPrice": 117800,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 22,
+                "reviewCount": "156",
+                "shortUrl": null
+              },
+              {
+                "no": 1000173368,
+                "name": "[산타마리아노벨라] 피렌체 1221 룸 디퓨저 250ml 8종 (택1)",
+                "shortDescription": "공간을 은은하게 채우는 시그니처 향기",
+                "listImageUrl": "https://product-image.kurly.com/product/image/2de58ec6-b3a1-421e-b428-e5b1bf39828a.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/2de58ec6-b3a1-421e-b428-e5b1bf39828a.jpg",
+                "salesPrice": 138000,
+                "discountedPrice": 131100,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 23,
+                "reviewCount": "114",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125282,
+                "name": "[산타마리아노벨라] 크레마 뻬르 레 마니 100ml (핸드크림)",
+                "shortDescription": "싱그러운 보습을 쏙",
+                "listImageUrl": "https://product-image.kurly.com/product/image/98b65e49-85c3-490b-b690-3953ade15269.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/98b65e49-85c3-490b-b690-3953ade15269.jpg",
+                "salesPrice": 68000,
+                "discountedPrice": 68000,
+                "discountRate": 0.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 24,
+                "reviewCount": "56",
+                "shortUrl": null
+              },
+              {
+                "no": 1000125138,
+                "name": "[산타마리아노벨라] 크레마 뻬르 까펠리 알 미엘레 100ml (트리트먼트)",
+                "shortDescription": "꿀이 전하는 수분과 영양",
+                "listImageUrl": "https://product-image.kurly.com/product/image/bf8761b8-bb3d-4cab-849e-9275a8798356.jpg",
+                "productVerticalMediumUrl": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/bf8761b8-bb3d-4cab-849e-9275a8798356.jpg",
+                "salesPrice": 45000,
+                "discountedPrice": 42750,
+                "discountRate": 5.0,
+                "isBuyNow": false,
+                "isPurchaseStatus": true,
+                "isGiftable": false,
+                "isSoldOut": true,
+                "soldOutTitle": "Coming Soon",
+                "soldOutText": "",
+                "isOnlyAdult": false,
+                "tags": [],
+                "isMultiplePrice": false,
+                "groupProduct": {
+                  "isGroup": false,
+                  "isNotRepresentative": false
+                },
+                "productStatus": {
+                  "indirect": "SOLD_OUT",
+                  "direct": "SOLD_OUT"
+                },
+                "notPurchaseMessage": "Coming Soon",
+                "deliveryTypeNames": [
+                  "샛별배송"
+                ],
+                "deliveryTypeInfos": [
+                  {
+                    "type": "DAWN",
+                    "description": "샛별배송"
+                  }
+                ],
+                "stickers": [],
+                "stickersV2": [],
+                "canRestockNotify": true,
+                "productViewStatus": "SOLD_OUT",
+                "adInfo": null,
+                "productViewTemplate": "BEAUTY",
+                "position": 25,
+                "reviewCount": "87",
+                "shortUrl": null
+              }
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "pagination": {
+          "total": 25,
+          "count": 25,
+          "perPage": 96,
+          "currentPage": 1,
+          "totalPages": 1
+        },
+        "queryId": "1b46f0c2-694e-4bca-acc9-5363a4714c19",
+        "actualSite": "market",
+        "targetSite": "market",
+        "actualKeyword": "산마",
+        "adProductNos": [],
+        "isSemanticRetryResult": false,
+        "queryGroups": []
+      },
+      "sortSections": [
+        {
+          "view": {
+            "sectionCode": "SORT",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "type": "4",
+                "name": "추천순"
+              },
+              {
+                "type": "0",
+                "name": "신상품순"
+              },
+              {
+                "type": "1",
+                "name": "판매량순"
+              },
+              {
+                "type": "5",
+                "name": "혜택순"
+              },
+              {
+                "type": "2",
+                "name": "낮은 가격순"
+              },
+              {
+                "type": "3",
+                "name": "높은 가격순"
+              }
+            ]
+          }
+        }
+      ],
+      "filterSections": [
+        {
+          "view": {
+            "sectionCode": "FILTER",
+            "version": "v1"
+          },
+          "data": {
+            "items": [
+              {
+                "name": "카테고리",
+                "key": "category",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "365005",
+                    "name": "프레그런스",
+                    "value": "",
+                    "productCounts": 13,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "012018",
+                    "name": "향수·디퓨저",
+                    "value": "",
+                    "productCounts": 11,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "365003",
+                    "name": "바디케어",
+                    "value": "",
+                    "productCounts": 7,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "012016",
+                    "name": "바디로션·크림",
+                    "value": "",
+                    "productCounts": 6,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "365001",
+                    "name": "스킨케어",
+                    "value": "",
+                    "productCounts": 5,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "233001",
+                    "name": "스킨·미스트·패드",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "233003",
+                    "name": "크림·오일",
+                    "value": "",
+                    "productCounts": 3,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "012008",
+                    "name": "바디워시·스크럽",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "012017",
+                    "name": "핸드·립·데오",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "365004",
+                    "name": "헤어케어",
+                    "value": "",
+                    "productCounts": 2,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "012009",
+                    "name": "샴푸·컨디셔너",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "012014",
+                    "name": "트리트먼트·팩",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "907001",
+                    "name": "고구마·감자·당근",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "가격",
+                "key": "price",
+                "template": "radio_button",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "-65000",
+                    "name": "65,000원 미만",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "65000-100000",
+                    "name": "65,000원 ~ 100,000원",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "100000-200000",
+                    "name": "100,000원 ~ 200,000원",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "200000-",
+                    "name": "200,000원 이상",
+                    "value": "",
+                    "productCounts": 0,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "브랜드",
+                "key": "brand",
+                "template": "sorted_checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "br-159",
+                    "name": "산타마리아노벨라",
+                    "value": "ㅅ",
+                    "productCounts": 24,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "유형",
+                "key": "type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "kurly_only",
+                    "name": "Kurly Only",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": true,
+                    "quickPosition": 1
+                  }
+                ]
+              },
+              {
+                "name": "혜택",
+                "key": "benefit",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "discount",
+                    "name": "할인상품",
+                    "value": "",
+                    "productCounts": 21,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "포장타입",
+                "key": "storage_type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "ambient_temperature",
+                    "name": "상온",
+                    "value": "",
+                    "productCounts": 24,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  },
+                  {
+                    "key": "cold",
+                    "name": "냉장",
+                    "value": "",
+                    "productCounts": 1,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              },
+              {
+                "name": "배송",
+                "key": "delivery_type",
+                "template": "checkbox",
+                "isQuick": true,
+                "values": [
+                  {
+                    "key": "dawn",
+                    "name": "샛별배송",
+                    "value": "",
+                    "productCounts": 25,
+                    "iconUrl": null,
+                    "isQuick": false,
+                    "quickPosition": 0
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
