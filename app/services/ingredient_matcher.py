@@ -49,8 +49,29 @@ def ingredients_match(recipe_ingredient: str, fridge_ingredient: str) -> bool:
     return False
 
 
+def fridge_item_name(item: dict) -> str:
+    """Accept ingredient, name, or item keys (PlayMCP LLM often sends name)."""
+    for key in ("ingredient", "name", "item"):
+        value = (item.get(key) or "").strip()
+        if value:
+            return value
+    return ""
+
+
+def normalize_fridge_items(fridge_items: list[dict] | None) -> list[dict]:
+    out: list[dict] = []
+    for item in fridge_items or []:
+        name = fridge_item_name(item)
+        if not name:
+            continue
+        row = dict(item)
+        row["ingredient"] = name
+        out.append(row)
+    return out
+
+
 def fridge_ingredient_names(fridge_items: list[dict]) -> list[str]:
-    return [item["ingredient"] for item in fridge_items if item.get("ingredient")]
+    return [item["ingredient"] for item in normalize_fridge_items(fridge_items)]
 
 
 def recipe_fridge_overlap(recipe_ingredients: set[str], fridge_items: list[dict]) -> list[str]:

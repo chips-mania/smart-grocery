@@ -20,9 +20,12 @@ from app.services.meal_tray import (
     select_min_waste_product,
     simulate_tray_shopping,
 )
+from app.services.ingredient_matcher import normalize_fridge_items
 from app.services.recipe_service import RecipeService
 
 _recipe_service = RecipeService()
+
+_SEARCH_DEFAULT_LIMIT = 8
 
 
 def _attach_ingredients(recipes: list[dict]) -> list[dict]:
@@ -47,16 +50,40 @@ def _attach_ingredients(recipes: list[dict]) -> list[dict]:
     return out
 
 
+def _compact_recipe_row(recipe: dict) -> dict:
+    """Shrink recipe payload for PlayMCP tool response size limits."""
+    row = {k: v for k, v in recipe.items() if k != "ingredients"}
+    ingredients = recipe.get("ingredients") or []
+    buy_names: list[str] = []
+    for item in ingredients:
+        if not item.get("buy_required", True):
+            continue
+        name = (item.get("canonical_ingredient") or item.get("ingredient") or "").strip()
+        if name and name not in buy_names:
+            buy_names.append(name)
+    row["ingredient_count"] = len(ingredients)
+    row["buy_ingredients"] = buy_names[:12]
+    fit = row.get("fridge_fit")
+    if isinstance(fit, dict) and isinstance(fit.get("covered"), list):
+        fit = dict(fit)
+        fit["covered"] = fit["covered"][:8]
+        row["fridge_fit"] = fit
+    return row
+
+
 def search_recipes(
     query: str | None = None,
     fridge_items: list[dict] | None = None,
     category: str | None = None,
-    limit: int = 15,
+    limit: int = _SEARCH_DEFAULT_LIMIT,
 ) -> dict:
-    """Search recipes by dish name and/or fridge leftovers. Includes ingredients."""
+    """Search recipes by dish name and/or fridge leftovers.
+
+    fridge_items: [{"ingredient": "돼지고기"}] — name key also accepted.
+    """
     cache = get_cache()
-    fridge_items = fridge_items or []
-    limit = max(1, min(int(limit), 30))
+    fridge_items = normalize_fridge_items(fridge_items)
+    limit = max(1, min(int(limit), 15))
     recipes: list[dict] = []
 
     category_map = {
@@ -82,13 +109,10 @@ def search_recipes(
                 recipes.append(row)
 
     if fridge_items:
+        from app.services.ingredient_matcher import fridge_ingredient_names
         from app.services.ingredient_matcher import ingredients_match
 
-        fridge_names = [
-            item.get("ingredient")
-            for item in fridge_items
-            if item.get("ingredient")
-        ]
+        fridge_names = fridge_ingredient_names(fridge_items)
         scored: list[tuple] = []
         for recipe in cache.get_recipes():
             if allowed and recipe.get("category") not in allowed:
@@ -124,11 +148,12 @@ def search_recipes(
         if "fridge_fit" not in recipe and fridge_items:
             recipe["fridge_fit"] = score_recipe_for_fridge(recipe, fridge_items)
 
+    compact = [_compact_recipe_row(recipe) for recipe in recipes]
     return with_ai_review(
         "search_recipes",
         {
-            "count": len(recipes),
-            "recipes": recipes,
+            "count": len(compact),
+            "recipes": compact,
             "objective": "Leftover minimization first; prefer recipes covering fridge items.",
         },
     )
@@ -143,6 +168,7 @@ def propose_meal_trays(
     limit: int = 5,
 ) -> dict:
     """Propose complete soup+main+side trays. Every slot is a real recipe."""
+    fridge_items = normalize_fridge_items(fridge_items)
     cache = get_cache()
     if not recipes and soup_recipe_id is None:
         return {
@@ -200,6 +226,7 @@ def aggregate_buy_list(
     missing_pantry: list[str] | None = None,
 ) -> dict:
     """Merge tray recipe needs minus fridge/pantry into one buy list."""
+    fridge_items = normalize_fridge_items(fridge_items)
     get_cache()
     if not recipes:
         return {"buy_list": [], "error": "recipes required"}
@@ -295,6 +322,7 @@ def evaluate_meal_tray(
     kurly_limit: int = 8,
 ) -> dict:
     """Simulate joint Kurly shopping for one tray (3 recipe ids). Returns leftover_score."""
+    fridge_items = normalize_fridge_items(fridge_items)
     get_cache()
     return with_ai_review(
         "evaluate_meal_tray",
@@ -317,6 +345,7 @@ def pick_best_meal_tray(
     kurly_limit: int = 8,
 ) -> dict:
     """Evaluate multiple tray candidates with simulated shopping; pick lowest leftover."""
+    fridge_items = normalize_fridge_items(fridge_items)
     get_cache()
     return with_ai_review(
         "pick_best_meal_tray",
@@ -337,15 +366,42 @@ def plan_one_meal(
     people: int = 1,
     soup_recipe_id: int | None = None,
     missing_pantry: list[str] | None = None,
-    tray_candidates: int = 8,
-    max_evaluate: int = 5,
+    tray_candidates: int = 5,
+    max_evaluate: int = 3,
 ) -> dict:
     """End-to-end: search → propose trays → simulate shopping for top-k → pick best."""
+    fridge_items = normalize_fridge_items(fridge_items)
+    try:
+        return _plan_one_meal_impl(
+            query=query,
+            fridge_items=fridge_items,
+            people=people,
+            soup_recipe_id=soup_recipe_id,
+            missing_pantry=missing_pantry,
+            tray_candidates=tray_candidates,
+            max_evaluate=max_evaluate,
+        )
+    except Exception as exc:  # noqa: BLE001
+        return {"error": "plan_failed", "message": str(exc), "query": query}
+
+
+def _plan_one_meal_impl(
+    *,
+    query: str | None,
+    fridge_items: list[dict],
+    people: int,
+    soup_recipe_id: int | None,
+    missing_pantry: list[str] | None,
+    tray_candidates: int,
+    max_evaluate: int,
+) -> dict:
     get_cache()
+    tray_candidates = max(3, min(int(tray_candidates), 8))
+    max_evaluate = max(1, min(int(max_evaluate), 5))
     found = search_recipes(
         query=query,
         fridge_items=fridge_items,
-        limit=max(tray_candidates, 5),
+        limit=tray_candidates,
     )
     recipes = found.get("recipes") or []
     if not recipes and not soup_recipe_id:
@@ -378,6 +434,7 @@ def plan_one_meal(
         fridge_items=fridge_items,
         missing_pantry=missing_pantry,
         max_evaluate=max_evaluate,
+        kurly_limit=5,
     )
     if picked.get("error"):
         return {**picked, "stage": "pick_best_meal_tray", "tray_candidates": len(trays)}
@@ -399,7 +456,7 @@ def plan_one_meal(
             "total_price": best.get("total_price"),
             "leftover_score": best.get("leftover_score"),
             "adjusted_leftover_score": best.get("adjusted_leftover_score"),
-            "leftover_detail": best.get("leftover_detail"),
+            "leftover_summary": best.get("leftover_summary"),
             "shopping_selections": [
                 {
                     "ingredient": s["ingredient"],
@@ -411,7 +468,6 @@ def plan_one_meal(
                 }
                 for s in best.get("selections") or []
             ],
-            "ranking": picked.get("ranking"),
             "evaluated_count": picked.get("evaluated_count"),
             "from_fridge": best.get("from_fridge"),
             "assumed_at_home": best.get("assumed_at_home"),

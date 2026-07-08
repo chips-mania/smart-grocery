@@ -108,9 +108,11 @@ def is_buyable(row: dict, missing_pantry: set[str] | None = None) -> bool:
 
 
 def covered_by_fridge(name: str, fridge_items: list[dict]) -> bool:
+    from app.services.ingredient_matcher import fridge_item_name
+
     for item in fridge_items or []:
-        fridge_name = item.get("ingredient") or ""
-        if ingredients_match(name, fridge_name):
+        fridge_name = fridge_item_name(item)
+        if fridge_name and ingredients_match(name, fridge_name):
             return True
     return False
 

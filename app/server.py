@@ -95,9 +95,10 @@ mcp.tool(
     name="search_recipes",
     title="Search Recipes",
     description=(
-        "Search recipes in Smart Grocery(알뜰장보기) by dish name and/or fridge leftover ingredients. "
-        "Returns candidates WITH full ingredient lists. Prefer high fridge coverage. "
-        "Orchestrator MUST review and drop weak matches before next step."
+        "Search recipes in Smart Grocery(알뜰장보기) by dish name and/or fridge items. "
+        "fridge_items: [{\"ingredient\":\"돼지고기\"}] (name key also ok). "
+        "category optional: soup|main|side or 국&찌개|일품|반찬. "
+        "Returns recipe_id, name, category, buy_ingredients (compact). limit default 8, max 15."
     ),
     annotations=READONLY_ANNOTATIONS,
 )(search_recipes)
@@ -106,9 +107,10 @@ mcp.tool(
     name="propose_meal_trays",
     title="Propose Meal Trays",
     description=(
-        "From Smart Grocery(알뜰장보기) recipe candidates, propose one-meal trays: soup + main + side (no rice). "
-        "Ranks by shared ingredients and fewer purchases (leftover proxy before shopping). "
-        "Orchestrator MUST verify every slot is a real recipe with correct category."
+        "From Smart Grocery(알뜰장보기) search_recipes candidates, build one-meal trays: "
+        "soup(국&찌개) + main(일품) + side(반찬), no rice. "
+        "Pass recipes array with recipe_id. fridge_items: ingredient or name key. "
+        "Optional soup_recipe_id to fix soup slot. Verify each slot is a real recipe name."
     ),
     annotations=READONLY_ANNOTATIONS,
 )(propose_meal_trays)
@@ -137,8 +139,9 @@ mcp.tool(
     name="plan_one_meal",
     title="Plan One Meal",
     description=(
-        "End-to-end one meal in Smart Grocery(알뜰장보기): search recipes, propose trays, simulate shopping for "
-        "top candidates, pick lowest leftover. Returns menu, price, leftovers."
+        "Smart Grocery(알뜰장보기) end-to-end one meal: search → trays → Kurly simulation → "
+        "lowest leftover_score. Use query for menu (e.g. 된장찌개). "
+        "fridge_items: [{\"ingredient\":\"두부\"}] or name key. Prefer this over calling many tools."
     ),
     annotations=OPENWORLD_ANNOTATIONS,
 )(plan_one_meal)
@@ -147,8 +150,9 @@ mcp.tool(
     name="aggregate_buy_list",
     title="Aggregate Buy List",
     description=(
-        "Merge Smart Grocery(알뜰장보기) selected tray recipes into one buy list after subtracting fridge and pantry. "
-        "Call this before kurly_search so shared ingredients are purchased once."
+        "Smart Grocery(알뜰장보기) merge tray recipes into one buy list; subtract fridge and pantry staples. "
+        "recipes need recipe_id. fridge_items: ingredient or name key. "
+        "Use before kurly_search per ingredient."
     ),
     annotations=READONLY_ANNOTATIONS,
 )(aggregate_buy_list)
