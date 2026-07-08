@@ -1,10 +1,17 @@
 import os
+import threading
 from contextlib import asynccontextmanager
 
 from mcp.server.fastmcp import FastMCP
 from mcp.types import ToolAnnotations
+from starlette.requests import Request
+from starlette.responses import JSONResponse
+from starlette.responses import Response
 
+from app.cache.startup_cache import StartupCache
 from app.cache.startup_cache import get_cache
+from app.common.logger import error
+from app.common.logger import info
 from app.tools.agentic_meal import (
     aggregate_buy_list,
     evaluate_meal_tray,
@@ -19,9 +26,23 @@ from app.tools.agentic_meal import (
 from app.tools.orchestrator_instructions import MCP_SERVER_INSTRUCTIONS
 
 
+def _load_cache_background() -> None:
+    try:
+        get_cache().load()
+        info("startup cache loaded")
+    except Exception as exc:
+        error(f"startup cache load failed: {exc}")
+
+
 @asynccontextmanager
 async def lifespan(_server: FastMCP):
-    get_cache().load()
+    port = os.getenv("PORT", "8000")
+    has_url = bool(os.getenv("SUPABASE_URL"))
+    has_key = bool(os.getenv("SUPABASE_KEY"))
+    info(f"smart-grocery-mcp starting port={port} SUPABASE_URL={'set' if has_url else 'MISSING'} SUPABASE_KEY={'set' if has_key else 'MISSING'}")
+    if not has_url or not has_key:
+        error("SUPABASE_URL / SUPABASE_KEY must be configured in PlayMCP env settings")
+    threading.Thread(target=_load_cache_background, daemon=True).start()
     yield
 
 
@@ -51,6 +72,24 @@ mcp = FastMCP(
     streamable_http_path="/mcp",
     lifespan=lifespan,
 )
+
+
+@mcp.custom_route("/health", methods=["GET"])
+async def health(_request: Request) -> Response:
+    cache = StartupCache.instance()
+    return JSONResponse(
+        {
+            "status": "ok",
+            "service": "smart-grocery-mcp",
+            "cache_loaded": cache.is_loaded,
+        }
+    )
+
+
+@mcp.custom_route("/", methods=["GET"])
+async def root(_request: Request) -> Response:
+    return JSONResponse({"status": "ok", "mcp": "/mcp"})
+
 
 mcp.tool(
     name="search_recipes",
