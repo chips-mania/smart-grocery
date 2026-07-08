@@ -191,6 +191,15 @@ def search_recipes(
                 }
                 recipes.append(row)
 
+    elif allowed:
+        for recipe in sort_recipes_by_inq(cache.get_recipes()):
+            if recipe.get("category") not in allowed:
+                continue
+            if all(r["recipe_id"] != recipe["recipe_id"] for r in recipes):
+                recipes.append(recipe)
+            if len(recipes) >= limit:
+                break
+
     recipes = sort_recipes_by_inq(_attach_ingredients(recipes))[:limit]
     for recipe in recipes:
         if "fridge_fit" not in recipe and fridge_items:
@@ -414,8 +423,8 @@ def plan_one_meal(
     people: int = 1,
     soup_recipe_id: int | None = None,
     missing_pantry: list[str] | None = None,
-    tray_candidates: int = 4,
-    max_evaluate: int = 2,
+    tray_candidates: int = 5,
+    max_evaluate: int = 3,
 ) -> dict:
     """End-to-end: search → propose trays → simulate shopping for top-k → pick best."""
     fridge_items = normalize_fridge_items(fridge_items)
@@ -482,7 +491,7 @@ def _plan_one_meal_impl(
         fridge_items=fridge_items,
         missing_pantry=missing_pantry,
         max_evaluate=max_evaluate,
-        kurly_limit=4,
+        kurly_limit=5,
     )
     if picked.get("error"):
         return {**picked, "stage": "pick_best_meal_tray", "tray_candidates": len(trays)}
