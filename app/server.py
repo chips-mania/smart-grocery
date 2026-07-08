@@ -13,15 +13,11 @@ from app.cache.startup_cache import get_cache
 from app.common.logger import error
 from app.common.logger import info
 from app.tools.agentic_meal import (
-    aggregate_buy_list,
-    evaluate_meal_tray,
     kurly_search,
     pick_best_meal_tray,
     plan_one_meal,
     propose_meal_trays,
-    score_leftovers,
     search_recipes,
-    select_product_min_waste,
 )
 from app.tools.orchestrator_instructions import MCP_SERVER_INSTRUCTIONS
 
@@ -92,13 +88,23 @@ async def root(_request: Request) -> Response:
 
 
 mcp.tool(
+    name="plan_one_meal",
+    title="Plan One Meal",
+    description=(
+        "Smart Grocery(알뜰장보기) PRIMARY tool. One call: search → soup+main+side tray → "
+        "Kurly simulation → menu_ingredients, buy_list, shopping_selections, leftover_score, "
+        "total_price. fridge_items: [{\"ingredient\":\"돼지고기\"}] or name key. query optional."
+    ),
+    annotations=OPENWORLD_ANNOTATIONS,
+)(plan_one_meal)
+
+mcp.tool(
     name="search_recipes",
     title="Search Recipes",
     description=(
-        "Search recipes in Smart Grocery(알뜰장보기) by dish name and/or fridge items. "
+        "Browse/search recipes by dish name and/or fridge items. "
         "fridge_items: [{\"ingredient\":\"돼지고기\"}] (name key also ok). "
-        "category optional: soup|main|side or 국&찌개|일품|반찬. "
-        "Returns recipe_id, name, category, buy_ingredients (compact). limit default 8, max 15."
+        "category optional: soup|main|side. For full meal + shopping use plan_one_meal."
     ),
     annotations=READONLY_ANNOTATIONS,
 )(search_recipes)
@@ -107,85 +113,31 @@ mcp.tool(
     name="propose_meal_trays",
     title="Propose Meal Trays",
     description=(
-        "From Smart Grocery(알뜰장보기) search_recipes candidates, build one-meal trays: "
-        "soup(국&찌개) + main(일품) + side(반찬), no rice. "
-        "Pass recipes array with recipe_id. fridge_items: ingredient or name key. "
-        "Optional soup_recipe_id to fix soup slot. Verify each slot is a real recipe name."
+        "Build soup(국&찌개)+main(일품)+side(반찬) tray candidates from search_recipes results. "
+        "Use when plan_one_meal fails or user wants to inspect trays before shopping simulation."
     ),
     annotations=READONLY_ANNOTATIONS,
 )(propose_meal_trays)
 
 mcp.tool(
-    name="evaluate_meal_tray",
-    title="Evaluate Meal Tray",
-    description=(
-        "Simulate Smart Grocery(알뜰장보기) joint shopping for one complete tray (3 recipe_ids). "
-        "Returns leftover_score, total_price, and per-ingredient leftovers."
-    ),
-    annotations=OPENWORLD_ANNOTATIONS,
-)(evaluate_meal_tray)
-
-mcp.tool(
     name="pick_best_meal_tray",
     title="Pick Best Meal Tray",
     description=(
-        "Run Smart Grocery(알뜰장보기) meal-tray evaluation on multiple tray candidates from propose_meal_trays "
-        "and return the tray with the lowest leftover_score (primary objective)."
+        "Simulate Kurly shopping for tray candidates from propose_meal_trays; "
+        "return lowest leftover_score. Includes buy_list and shopping_selections on the winner."
     ),
     annotations=OPENWORLD_ANNOTATIONS,
 )(pick_best_meal_tray)
 
 mcp.tool(
-    name="plan_one_meal",
-    title="Plan One Meal",
-    description=(
-        "Smart Grocery(알뜰장보기) end-to-end one meal: search → trays → Kurly simulation → "
-        "lowest leftover_score. Use query for menu (e.g. 된장찌개). "
-        "fridge_items: [{\"ingredient\":\"두부\"}] or name key. Prefer this over calling many tools."
-    ),
-    annotations=OPENWORLD_ANNOTATIONS,
-)(plan_one_meal)
-
-mcp.tool(
-    name="aggregate_buy_list",
-    title="Aggregate Buy List",
-    description=(
-        "Smart Grocery(알뜰장보기) merge tray recipes into one buy list; subtract fridge and pantry staples. "
-        "recipes need recipe_id. fridge_items: ingredient or name key. "
-        "Use before kurly_search per ingredient."
-    ),
-    annotations=READONLY_ANNOTATIONS,
-)(aggregate_buy_list)
-
-mcp.tool(
     name="kurly_search",
     title="Search Kurly Products",
     description=(
-        "Search Kurly products for Smart Grocery(알뜰장보기) by keyword using the live catalog API. "
-        "Returns candidates; YOU must remove irrelevant products before select_product_min_waste."
+        "Search Kurly for one ingredient keyword (e.g. 두부). Browse-only; "
+        "for full meal planning use plan_one_meal instead."
     ),
     annotations=OPENWORLD_ANNOTATIONS,
 )(kurly_search)
-
-mcp.tool(
-    name="select_product_min_waste",
-    title="Select Product Min Waste",
-    description=(
-        "From AI-filtered Kurly candidates in Smart Grocery(알뜰장보기), pick the product that minimizes leftover "
-        "vs required amount/count. Price is only a tie-breaker."
-    ),
-    annotations=READONLY_ANNOTATIONS,
-)(select_product_min_waste)
-
-mcp.tool(
-    name="score_leftovers",
-    title="Score Leftovers",
-    description=(
-        "Score confirmed Smart Grocery(알뜰장보기) product selections by estimated leftover volume. "
-        "Lower leftover_score is better. Use to compare trays or decide replacements."
-    ),
-    annotations=READONLY_ANNOTATIONS,
-)(score_leftovers)
 
 
 if __name__ == "__main__":

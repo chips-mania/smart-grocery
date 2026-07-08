@@ -323,8 +323,7 @@ def kurly_search(keyword: str, limit: int = 8) -> dict:
             "count": len(products),
             "products": products,
             "instruction": (
-                "Only parsable-package products can be purchased. "
-                "Filter irrelevant matches, then call select_product_min_waste."
+                "Browse-only. For optimized buy list and leftovers use plan_one_meal."
             ),
         },
     )
