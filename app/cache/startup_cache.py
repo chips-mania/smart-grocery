@@ -110,7 +110,9 @@ class StartupCache:
         return [self._recipes_by_name[name] for name in names if name in self._recipes_by_name]
 
     def get_ingredients(self, recipe_id: int) -> list[dict]:
-        return list(self._ingredients_by_recipe.get(recipe_id, []))
+        from app.services.ingredient_matcher import dedupe_ingredient_rows
+
+        return dedupe_ingredient_rows(self._ingredients_by_recipe.get(recipe_id, []))
 
     def get_ingredient_names(self, recipe_id: int) -> set[str]:
         return set(self._ingredient_names_by_recipe.get(recipe_id, set()))

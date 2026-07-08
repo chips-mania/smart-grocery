@@ -9,10 +9,42 @@ from app.config.ingredient_unit_defaults import normalize_need_to_mass
 from app.config.pantry_defaults import is_pantry_ingredient, normalize_missing_pantry
 from app.parser.ingredient_parser import parse_recipe_ingredient, parse_servings
 from app.parser.product_parser import effective_price
-from app.services.ingredient_matcher import ingredients_match
-
+from app.services.ingredient_matcher import fridge_ingredient_names, ingredients_match
 
 SOUP_CATEGORIES = {"국&찌개"}
+
+_MEAT_FRIDGE_TOKENS = (
+    "돼지",
+    "돼지고기",
+    "한돈",
+    "제육",
+    "소",
+    "쇠고기",
+    "소고기",
+    "닭",
+    "닭고기",
+)
+
+
+def _is_fridge_meat(name: str) -> bool:
+    compact = name.replace(" ", "").lower()
+    return any(token in compact for token in _MEAT_FRIDGE_TOKENS)
+
+
+def _tray_covered_fridge_names(tray_recipes: list[dict], fridge_items: list[dict]) -> set[str]:
+    covered: set[str] = set()
+    fridge_names = fridge_ingredient_names(fridge_items)
+    recipe_names = {
+        ingredient_key(row)
+        for recipe in tray_recipes
+        for row in recipe_display_ingredients(recipe)
+    }
+    for fridge_name in fridge_names:
+        if any(ingredients_match(recipe_name, fridge_name) for recipe_name in recipe_names):
+            covered.add(fridge_name)
+    return covered
+
+
 MAIN_CATEGORIES = {"일품"}
 SIDE_CATEGORIES = {"반찬"}
 
@@ -665,11 +697,22 @@ def propose_trays(
     missing = normalize_missing_pantry(missing_pantry)
     cache = cache or get_cache()
 
+    from app.services.ingredient_matcher import recipe_fridge_overlap
+
     pool = {r["recipe_id"]: r for r in recipes if r.get("recipe_id")}
-    for recipe in cache.get_recipes():
-        rid = recipe["recipe_id"]
-        if rid not in pool:
-            pool[rid] = recipe
+    if fridge_items:
+        for recipe in cache.get_recipes():
+            rid = recipe["recipe_id"]
+            if rid in pool:
+                continue
+            names = cache.get_ingredient_names(rid)
+            if recipe_fridge_overlap(names, fridge_items):
+                pool[rid] = recipe
+    else:
+        for recipe in cache.get_recipes():
+            rid = recipe["recipe_id"]
+            if rid not in pool:
+                pool[rid] = recipe
 
     soups = [r for r in pool.values() if r.get("category") in SOUP_CATEGORIES]
     mains = [
@@ -745,6 +788,12 @@ def propose_trays(
             fridge_items=fridge_items,
             missing_pantry=missing_pantry,
         )
+        if fridge_items:
+            fridge_names = fridge_ingredient_names(fridge_items)
+            covered_fridge = _tray_covered_fridge_names(tray_recipes, fridge_items)
+            meat_in_fridge = [name for name in fridge_names if _is_fridge_meat(name)]
+            if meat_in_fridge and not any(name in covered_fridge for name in meat_in_fridge):
+                continue
         name_sets = []
         for recipe in tray_recipes:
             names = {
@@ -755,7 +804,13 @@ def propose_trays(
             name_sets.append(names)
         shared = set.intersection(*name_sets) if name_sets else set()
 
-        score = agg["buy_count"] * 10 - len(shared) * 8 - len(agg["from_fridge"])
+        score = agg["buy_count"] * 10 - len(shared) * 8 - len(agg["from_fridge"]) * 12
+        if fridge_items:
+            covered_fridge = _tray_covered_fridge_names(tray_recipes, fridge_items)
+            score -= len(covered_fridge) * 15
+            fridge_names = fridge_ingredient_names(fridge_items)
+            if len(fridge_names) >= 2 and len(covered_fridge) < len(fridge_names):
+                score += 20 * (len(fridge_names) - len(covered_fridge))
         candidates.append(
             {
                 "tray": {

@@ -73,8 +73,11 @@ def _compact_recipe_row(recipe: dict) -> dict:
 
 
 def _format_menu_ingredients(recipe_rows: list[dict]) -> list[dict]:
+    from app.services.ingredient_matcher import dedupe_ingredient_rows
+
     out: list[dict] = []
     for recipe in recipe_rows:
+        ingredients = dedupe_ingredient_rows(recipe.get("ingredients") or [])
         out.append(
             {
                 "recipe_id": recipe.get("recipe_id"),
@@ -89,7 +92,7 @@ def _format_menu_ingredients(recipe_rows: list[dict]) -> list[dict]:
                         "count": item.get("count"),
                         "buy_required": item.get("buy_required", True),
                     }
-                    for item in recipe.get("ingredients") or []
+                    for item in ingredients
                 ],
             }
         )
@@ -411,8 +414,8 @@ def plan_one_meal(
     people: int = 1,
     soup_recipe_id: int | None = None,
     missing_pantry: list[str] | None = None,
-    tray_candidates: int = 5,
-    max_evaluate: int = 3,
+    tray_candidates: int = 4,
+    max_evaluate: int = 2,
 ) -> dict:
     """End-to-end: search → propose trays → simulate shopping for top-k → pick best."""
     fridge_items = normalize_fridge_items(fridge_items)
@@ -479,7 +482,7 @@ def _plan_one_meal_impl(
         fridge_items=fridge_items,
         missing_pantry=missing_pantry,
         max_evaluate=max_evaluate,
-        kurly_limit=5,
+        kurly_limit=4,
     )
     if picked.get("error"):
         return {**picked, "stage": "pick_best_meal_tray", "tray_candidates": len(trays)}

@@ -28,6 +28,24 @@ def _canonical(name: str) -> str:
     return _compact(mapped)
 
 
+def _is_generic_meat(name: str) -> bool:
+    return _compact(name) == "고기"
+
+
+def dedupe_ingredient_rows(rows: list[dict]) -> list[dict]:
+    """Drop duplicate DB rows for the same ingredient line on one recipe."""
+    seen: set[tuple] = set()
+    out: list[dict] = []
+    for row in rows:
+        name = (row.get("canonical_ingredient") or row.get("ingredient") or "").strip()
+        key = (name, row.get("amount"), row.get("unit"), row.get("count"))
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(row)
+    return out
+
+
 def ingredients_match(recipe_ingredient: str, fridge_ingredient: str) -> bool:
     left = _compact(recipe_ingredient)
     right = _compact(fridge_ingredient)
@@ -36,6 +54,14 @@ def ingredients_match(recipe_ingredient: str, fridge_ingredient: str) -> bool:
 
     if left == right:
         return True
+
+    # Generic recipe "고기" must not substring-match "돼지고기"/"소고기".
+    if _is_generic_meat(recipe_ingredient) or _is_generic_meat(fridge_ingredient):
+        for group in _MEAT_GROUPS:
+            if any(token in left for token in group) and any(token in right for token in group):
+                return True
+        return False
+
     if left in right or right in left:
         return True
 
