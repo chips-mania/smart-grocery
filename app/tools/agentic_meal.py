@@ -14,6 +14,7 @@ from app.services.meal_tray import (
     aggregate_ingredients,
     pick_best_tray_by_shopping,
     propose_trays,
+    recipes_by_ids,
     relevant_kurly_products,
     score_cart_leftovers,
     score_recipe_for_fridge,
@@ -69,6 +70,50 @@ def _compact_recipe_row(recipe: dict) -> dict:
         fit["covered"] = fit["covered"][:8]
         row["fridge_fit"] = fit
     return row
+
+
+def _format_menu_ingredients(recipe_rows: list[dict]) -> list[dict]:
+    out: list[dict] = []
+    for recipe in recipe_rows:
+        out.append(
+            {
+                "recipe_id": recipe.get("recipe_id"),
+                "name": recipe.get("name"),
+                "category": recipe.get("category"),
+                "ingredients": [
+                    {
+                        "ingredient": item.get("ingredient"),
+                        "canonical_ingredient": item.get("canonical_ingredient"),
+                        "amount": item.get("amount"),
+                        "unit": item.get("unit"),
+                        "count": item.get("count"),
+                        "buy_required": item.get("buy_required", True),
+                    }
+                    for item in recipe.get("ingredients") or []
+                ],
+            }
+        )
+    return out
+
+
+def _format_shopping_selection(selection: dict) -> dict:
+    product = selection.get("product") or {}
+    return {
+        "ingredient": selection.get("ingredient"),
+        "product_name": product.get("name"),
+        "product_id": product.get("product_id"),
+        "price": product.get("price"),
+        "discount_price": product.get("discount_price"),
+        "effective_price": product.get("effective_price") or effective_price(product),
+        "quantity": selection.get("quantity"),
+        "line_price": selection.get("line_price"),
+        "required_amount": selection.get("required_amount"),
+        "required_unit": selection.get("required_unit"),
+        "leftover_amount": selection.get("leftover_amount"),
+        "leftover_unit": selection.get("leftover_unit"),
+        "package_amount": product.get("package_amount"),
+        "package_unit": product.get("package_unit"),
+    }
 
 
 def search_recipes(
@@ -441,6 +486,15 @@ def _plan_one_meal_impl(
 
     best = picked["best"]
     tray = best.get("tray") or {}
+    recipe_ids = best.get("recipe_ids") or []
+    cache = get_cache()
+    recipe_rows = recipes_by_ids(recipe_ids, cache)
+    buy_result = aggregate_ingredients(
+        recipe_rows,
+        people=people,
+        fridge_items=fridge_items,
+        missing_pantry=missing_pantry,
+    )
     return with_ai_review(
         "plan_one_meal",
         {
@@ -451,26 +505,23 @@ def _plan_one_meal_impl(
                 "main": (tray.get("main") or {}).get("name"),
                 "side": (tray.get("side") or {}).get("name"),
             },
-            "recipe_ids": best.get("recipe_ids"),
+            "recipe_ids": recipe_ids,
+            "menu_ingredients": _format_menu_ingredients(recipe_rows),
             "shared_ingredients": best.get("shared_ingredients", []),
+            "from_fridge": buy_result.get("from_fridge") or best.get("from_fridge"),
+            "assumed_at_home": buy_result.get("assumed_at_home") or best.get(
+                "assumed_at_home", []
+            ),
+            "buy_list": buy_result.get("buy_list", []),
+            "buy_count": buy_result.get("buy_count", 0),
             "total_price": best.get("total_price"),
             "leftover_score": best.get("leftover_score"),
             "adjusted_leftover_score": best.get("adjusted_leftover_score"),
             "leftover_summary": best.get("leftover_summary"),
             "shopping_selections": [
-                {
-                    "ingredient": s["ingredient"],
-                    "product_name": (s.get("product") or {}).get("name"),
-                    "quantity": s.get("quantity"),
-                    "line_price": s.get("line_price"),
-                    "leftover_amount": s.get("leftover_amount"),
-                    "leftover_unit": s.get("leftover_unit"),
-                }
-                for s in best.get("selections") or []
+                _format_shopping_selection(s) for s in best.get("selections") or []
             ],
             "evaluated_count": picked.get("evaluated_count"),
-            "from_fridge": best.get("from_fridge"),
-            "assumed_at_home": best.get("assumed_at_home"),
             "failed_ingredients": best.get("failed_ingredients"),
             "skipped_unparsable": best.get("skipped_unparsable"),
         },

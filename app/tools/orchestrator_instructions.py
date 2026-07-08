@@ -1,62 +1,40 @@
 """PlayMCP orchestrator (LLM) instructions — validate at every step."""
 
 MCP_SERVER_INSTRUCTIONS = """\
-Leftover-first grocery MCP. Goal: minimize leftover ingredients after one meal \
-(soup + main + side recipes; no rice). You are the orchestrator.
+Smart Grocery(알뜰장보기): minimize leftover ingredients after one meal \
+(soup + main + side; no rice).
 
-CRITICAL: Each tray slot MUST be a full recipe from the database — \
-soup=국&찌개, main=일품, side=반찬. NEVER put ingredient names in menu slots.
+TOOLS (only 3 — use the right one):
+1) plan_one_meal — DEFAULT for fridge leftovers, menu requests, shopping optimization. \
+One call returns menu, per-recipe ingredients, buy_list, Kurly picks, leftovers, total price.
+2) search_recipes — ONLY when user wants recipe candidates without shopping (browse/explore).
+3) kurly_search — ONLY when user asks to search Kurly for one ingredient/product keyword.
 
-AI VALIDATION AT EVERY STEP (do not skip):
-1) After search_recipes — drop mismatched names/categories; keep user intent.
-2) After propose_meal_trays — reject trays with missing slots or wrong categories.
-3) After pick_best_meal_tray / evaluate_meal_tray — check leftover_score and failed_ingredients; \
-re-search or swap recipes if results are weak.
-4) After kurly_search — YOU must filter irrelevant products before select_product_min_waste.
-5) Before final answer — cite only numbers from tool JSON; explain why the tray wins.
+For "냉장고에 X 남았어 뭐 해먹지?" or "된장찌개 장보기 최적화" → plan_one_meal (NOT search_recipes alone).
 
-Flow: search_recipes -> propose_meal_trays -> pick_best_meal_tray \
-(simulates shopping; picks lowest leftover_score). Or plan_one_meal for end-to-end. \
-Per-tray: evaluate_meal_tray. Then kurly_search/filter/select if refining manually.\
+When answering from plan_one_meal JSON, show in order:
+1) meal_tray (soup/main/side recipe names)
+2) menu_ingredients (each dish + required amounts)
+3) from_fridge + assumed_at_home (pantry staples like 굴소스 excluded from buy)
+4) buy_list (what to purchase + required amounts)
+5) shopping_selections (Kurly product, price, leftover per item)
+6) total_price + leftover_score
+
+Cite only numbers from tool JSON. Basic pantry (간장, 굴소스, etc.) is assumed at home unless user says missing.
 """
 
 AI_REVIEW = {
     "search_recipes": (
-        "Review each candidate: name matches user intent, category fits the slot "
-        "(국&찌개/일품/반찬), not an ingredient disguised as a menu. "
-        "Drop weak matches before propose_meal_trays."
-    ),
-    "propose_meal_trays": (
-        "Review each tray: soup/main/side are all real recipe names with correct categories. "
-        "Reject incomplete trays or ingredient-only slots. "
-        "Prefer trays with shared ingredients and fewer purchases."
-    ),
-    "evaluate_meal_tray": (
-        "Review leftover_score, failed_ingredients, and skipped_unparsable. "
-        "If shopping failed for key items, try another tray or re-search recipes."
-    ),
-    "pick_best_meal_tray": (
-        "Compare ranking by leftover_score (lower is better). "
-        "Verify the winner is shoppable; if not, evaluate the next tray."
+        "Browse-only. If user wants a full meal or shopping list, call plan_one_meal instead."
     ),
     "plan_one_meal": (
-        "Review the returned meal_tray, leftover_score, and failed_ingredients. "
-        "If unsatisfactory, re-run with a different query or soup_recipe_id."
-    ),
-    "aggregate_buy_list": (
-        "Verify buy_list matches the selected tray recipes and subtracts fridge/pantry."
+        "Present meal_tray, menu_ingredients, buy_list, shopping_selections, total_price, "
+        "leftover_score. Pantry items are in assumed_at_home, not buy_list. "
+        "Re-run with different query if menu mismatches user intent (e.g. 꽃게된장 vs 된장찌개)."
     ),
     "kurly_search": (
-        "Filter irrelevant products (wrong ingredient, prepared dish, non-grocery). "
-        "Only parsable-package products can be purchased. "
-        "Then call select_product_min_waste with filtered candidates."
-    ),
-    "select_product_min_waste": (
-        "Confirm the selection minimizes leftover for the required amount/count. "
-        "If no_parsable_candidates, re-filter kurly_search results or adjust keyword."
-    ),
-    "score_leftovers": (
-        "Use leftover_score to compare alternative selections; lower is better."
+        "Show product name, effective_price/discount_price. Filter irrelevant hits. "
+        "For full meal planning use plan_one_meal instead."
     ),
 }
 

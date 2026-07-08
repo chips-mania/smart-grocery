@@ -35,6 +35,7 @@ DEFAULT_PANTRY_LABELS = [
     "후춧가루",
     "다시다",
     "참치액",
+    "굴소스",
 ]
 
 PANTRY_ASSUMPTION_NOTE = (
