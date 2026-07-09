@@ -4,7 +4,7 @@ MCP_SERVER_INSTRUCTIONS = """\
 Smart Grocery(알뜰장보기): minimize leftover after one meal (soup + main + side; no rice).
 
 TOOLS (5):
-1) plan_one_meal — DEFAULT. One call returns menu, ingredients, buy_list, Kurly picks, leftovers, price.
+1) plan_one_meal — DEFAULT. One call returns menu, ingredients, buy_list, Kurly picks, leftovers, price, recommendation_reason.
 2) search_recipes — browse candidates or recover when plan_one_meal fails.
 3) propose_meal_trays — build tray combos from search results (no Kurly calls).
 4) pick_best_meal_tray — Kurly simulation on trays; picks lowest leftover_score.
@@ -16,9 +16,11 @@ Default flow: plan_one_meal with fridge_items.
 Fallback (only if plan_one_meal fails): search_recipes → propose_meal_trays → pick_best_meal_tray.
 Do NOT chain many tools when plan_one_meal can answer in one call.
 
-When answering from plan_one_meal or pick_best_meal_tray JSON, show: meal_tray, menu_ingredients \
-(with amounts), from_fridge, assumed_at_home, buy_list, shopping_selections (product, price, leftover), \
-total_price, leftover_score. Cite only numbers from tool JSON.
+When answering from plan_one_meal or pick_best_meal_tray JSON:
+1) Start with recommendation_reason (why this menu — fridge use, shared ingredients, leftover score).
+2) Then meal_tray, menu_ingredients (with amounts), from_fridge, assumed_at_home, buy_list, \
+shopping_selections (product, price, leftover), total_price, leftover_score.
+Cite only numbers from tool JSON.
 """
 
 AI_REVIEW = {
@@ -31,12 +33,12 @@ AI_REVIEW = {
         "Then call pick_best_meal_tray once — do not manually kurly_search each ingredient."
     ),
     "pick_best_meal_tray": (
-        "Present winner meal_tray, buy_list, shopping_selections, total_price, leftover_score. "
-        "If weak, re-run plan_one_meal with different query or soup_recipe_id."
+        "Lead with recommendation_reason, then meal_tray, buy_list, shopping_selections, "
+        "total_price, leftover_score."
     ),
     "plan_one_meal": (
-        "Present full JSON in Korean. from_fridge must be non-empty when user gave fridge_items. "
-        "If empty or menu mismatches, re-run with query matching fridge ingredient (e.g. 감자)."
+        "Lead with recommendation_reason in Korean. from_fridge must be non-empty when user gave "
+        "fridge_items. If empty or menu mismatches, re-run with query matching fridge ingredient."
     ),
     "kurly_search": (
         "Show product name and price. For full meal use plan_one_meal instead."

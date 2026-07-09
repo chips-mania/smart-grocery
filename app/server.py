@@ -93,7 +93,7 @@ mcp.tool(
     description=(
         "Smart Grocery(알뜰장보기) PRIMARY tool. One call: search → soup+main+side tray → "
         "Kurly simulation → menu_ingredients, buy_list, shopping_selections, leftover_score, "
-        "total_price. fridge_items: [{\"ingredient\":\"돼지고기\"}] or name key. query optional."
+        "total_price, recommendation_reason. fridge_items: [{\"ingredient\":\"돼지고기\"}] or name key. query optional."
     ),
     annotations=OPENWORLD_ANNOTATIONS,
 )(plan_one_meal)
@@ -102,7 +102,7 @@ mcp.tool(
     name="search_recipes",
     title="Search Recipes",
     description=(
-        "Browse/search recipes by dish name and/or fridge items. "
+        "Smart Grocery(알뜰장보기) recipe browse/search by dish name and/or fridge items. "
         "fridge_items: [{\"ingredient\":\"돼지고기\"}] (name key also ok). "
         "category optional: soup|main|side. For full meal + shopping use plan_one_meal."
     ),
@@ -113,8 +113,8 @@ mcp.tool(
     name="propose_meal_trays",
     title="Propose Meal Trays",
     description=(
-        "Build soup(국&찌개)+main(일품)+side(반찬) tray candidates from search_recipes results. "
-        "Use when plan_one_meal fails or user wants to inspect trays before shopping simulation."
+        "Smart Grocery(알뜰장보기) builds soup(국&찌개)+main(일품)+side(반찬) tray candidates "
+        "from search_recipes results. Use when plan_one_meal fails or user inspects trays first."
     ),
     annotations=READONLY_ANNOTATIONS,
 )(propose_meal_trays)
@@ -123,8 +123,8 @@ mcp.tool(
     name="pick_best_meal_tray",
     title="Pick Best Meal Tray",
     description=(
-        "Simulate Kurly shopping for tray candidates from propose_meal_trays; "
-        "return lowest leftover_score. Includes buy_list and shopping_selections on the winner."
+        "Smart Grocery(알뜰장보기) simulates Kurly shopping for propose_meal_trays candidates; "
+        "returns lowest leftover_score with buy_list, shopping_selections, recommendation_reason."
     ),
     annotations=OPENWORLD_ANNOTATIONS,
 )(pick_best_meal_tray)
@@ -133,8 +133,8 @@ mcp.tool(
     name="kurly_search",
     title="Search Kurly Products",
     description=(
-        "Search Kurly for one ingredient keyword (e.g. 두부). Browse-only; "
-        "for full meal planning use plan_one_meal instead."
+        "Smart Grocery(알뜰장보기) searches Kurly for one ingredient keyword (e.g. 두부). "
+        "Browse-only; for full meal planning use plan_one_meal instead."
     ),
     annotations=OPENWORLD_ANNOTATIONS,
 )(kurly_search)

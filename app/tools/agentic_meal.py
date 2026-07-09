@@ -99,6 +99,71 @@ def _format_menu_ingredients(recipe_rows: list[dict]) -> list[dict]:
     return out
 
 
+def _build_recommendation_reason(
+    *,
+    meal_tray: dict[str, str | None],
+    from_fridge: list[str] | None,
+    shared_ingredients: list[str] | None,
+    buy_count: int | None,
+    total_price: int | float | None,
+    leftover_score: float | None,
+    leftover_summary: str | None,
+    evaluated_count: int | None,
+    query: str | None = None,
+    fridge_items: list[dict] | None = None,
+) -> str:
+    """Korean explanation for why this tray was recommended (shown to end user)."""
+    from app.services.ingredient_matcher import fridge_ingredient_names
+
+    parts: list[str] = []
+    dish_names = [meal_tray.get(slot) for slot in ("soup", "main", "side") if meal_tray.get(slot)]
+    if dish_names:
+        parts.append(f"국·메인·반찬으로 {' · '.join(dish_names)} 조합을 제안합니다.")
+
+    if query and query.strip():
+        parts.append(f"요청하신 '{query.strip()}' 메뉴 의도를 반영했습니다.")
+
+    if from_fridge:
+        parts.append(f"냉장고 재료({', '.join(from_fridge)})를 활용합니다.")
+    elif fridge_items:
+        wanted = ", ".join(fridge_ingredient_names(fridge_items))
+        if wanted:
+            parts.append(f"냉장고에 있는 {wanted}를 쓰는 요리를 우선 골랐습니다.")
+
+    shared = [name for name in (shared_ingredients or []) if name]
+    if shared:
+        label = ", ".join(shared[:4])
+        if len(shared) > 4:
+            label += f" 외 {len(shared) - 4}개"
+        parts.append(f"{label} 재료를 여러 요리가 함께 써 장보기 낭비를 줄입니다.")
+
+    if evaluated_count and evaluated_count > 1:
+        parts.append(f"후보 {evaluated_count}개 밥상을 컬리 장보기 시뮬레이션으로 비교했습니다.")
+
+    if leftover_score is not None:
+        summary = leftover_summary or f"잔여 식재료 점수 {round(leftover_score, 1)}"
+        parts.append(f"{summary}(낮을수록 남는 재료가 적음) 기준으로 선택했습니다.")
+
+    if buy_count is not None:
+        if total_price is not None:
+            parts.append(f"추가 구매 {buy_count}종, 예상 합계 {int(total_price):,}원입니다.")
+        else:
+            parts.append(f"추가 구매가 필요한 재료는 {buy_count}종입니다.")
+
+    if parts:
+        return " ".join(parts)
+    return "잔여 식재료를 줄이는 한 끼 밥상으로 구성했습니다."
+
+
+def _meal_tray_from_best(best: dict) -> dict[str, str | None]:
+    tray = best.get("tray") or {}
+    return {
+        "soup": (tray.get("soup") or {}).get("name"),
+        "main": (tray.get("main") or {}).get("name"),
+        "side": (tray.get("side") or {}).get("name"),
+    }
+
+
 def _format_shopping_selection(selection: dict) -> dict:
     product = selection.get("product") or {}
     return {
@@ -403,17 +468,29 @@ def pick_best_meal_tray(
     """Evaluate multiple tray candidates with simulated shopping; pick lowest leftover."""
     fridge_items = normalize_fridge_items(fridge_items)
     get_cache()
-    return with_ai_review(
-        "pick_best_meal_tray",
-        pick_best_tray_by_shopping(
-            trays,
-            people=people,
-            fridge_items=fridge_items,
-            missing_pantry=missing_pantry,
-            max_evaluate=max_evaluate,
-            kurly_limit=kurly_limit,
-        ),
+    result = pick_best_tray_by_shopping(
+        trays,
+        people=people,
+        fridge_items=fridge_items,
+        missing_pantry=missing_pantry,
+        max_evaluate=max_evaluate,
+        kurly_limit=kurly_limit,
     )
+    best = result.get("best")
+    if best and not result.get("error"):
+        meal_tray = _meal_tray_from_best(best)
+        result["recommendation_reason"] = _build_recommendation_reason(
+            meal_tray=meal_tray,
+            from_fridge=best.get("from_fridge"),
+            shared_ingredients=best.get("shared_ingredients"),
+            buy_count=best.get("buy_count"),
+            total_price=best.get("total_price"),
+            leftover_score=best.get("leftover_score"),
+            leftover_summary=best.get("leftover_summary"),
+            evaluated_count=result.get("evaluated_count"),
+            fridge_items=fridge_items,
+        )
+    return with_ai_review("pick_best_meal_tray", result)
 
 
 def plan_one_meal(
@@ -519,6 +596,12 @@ def _plan_one_meal_impl(
         fridge_items=fridge_items,
         missing_pantry=missing_pantry,
     )
+    meal_tray = {
+        "soup": (tray.get("soup") or {}).get("name"),
+        "main": (tray.get("main") or {}).get("name"),
+        "side": (tray.get("side") or {}).get("name"),
+    }
+    from_fridge = buy_result.get("from_fridge") or best.get("from_fridge")
     return with_ai_review(
         "plan_one_meal",
         {
@@ -527,15 +610,23 @@ def _plan_one_meal_impl(
                 "Minimize leftover_score after joint tray shopping simulation; "
                 "must use fridge_items when provided."
             ),
-            "meal_tray": {
-                "soup": (tray.get("soup") or {}).get("name"),
-                "main": (tray.get("main") or {}).get("name"),
-                "side": (tray.get("side") or {}).get("name"),
-            },
+            "meal_tray": meal_tray,
+            "recommendation_reason": _build_recommendation_reason(
+                meal_tray=meal_tray,
+                from_fridge=from_fridge,
+                shared_ingredients=best.get("shared_ingredients"),
+                buy_count=buy_result.get("buy_count", 0),
+                total_price=best.get("total_price"),
+                leftover_score=best.get("leftover_score"),
+                leftover_summary=best.get("leftover_summary"),
+                evaluated_count=picked.get("evaluated_count"),
+                query=query,
+                fridge_items=fridge_items,
+            ),
             "recipe_ids": recipe_ids,
             "menu_ingredients": _format_menu_ingredients(recipe_rows),
             "shared_ingredients": best.get("shared_ingredients", []),
-            "from_fridge": buy_result.get("from_fridge") or best.get("from_fridge"),
+            "from_fridge": from_fridge,
             "assumed_at_home": buy_result.get("assumed_at_home") or best.get(
                 "assumed_at_home", []
             ),
