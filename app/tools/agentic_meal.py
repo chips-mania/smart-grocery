@@ -602,45 +602,37 @@ def _plan_one_meal_impl(
         "side": (tray.get("side") or {}).get("name"),
     }
     from_fridge = buy_result.get("from_fridge") or best.get("from_fridge")
-    return with_ai_review(
-        "plan_one_meal",
-        {
-            "stage": "complete",
-            "objective": (
-                "Minimize leftover_score after joint tray shopping simulation; "
-                "must use fridge_items when provided."
-            ),
-            "meal_tray": meal_tray,
-            "recommendation_reason": _build_recommendation_reason(
-                meal_tray=meal_tray,
-                from_fridge=from_fridge,
-                shared_ingredients=best.get("shared_ingredients"),
-                buy_count=buy_result.get("buy_count", 0),
-                total_price=best.get("total_price"),
-                leftover_score=best.get("leftover_score"),
-                leftover_summary=best.get("leftover_summary"),
-                evaluated_count=picked.get("evaluated_count"),
-                query=query,
-                fridge_items=fridge_items,
-            ),
-            "recipe_ids": recipe_ids,
-            "menu_ingredients": _format_menu_ingredients(recipe_rows),
-            "shared_ingredients": best.get("shared_ingredients", []),
-            "from_fridge": from_fridge,
-            "assumed_at_home": buy_result.get("assumed_at_home") or best.get(
-                "assumed_at_home", []
-            ),
-            "buy_list": buy_result.get("buy_list", []),
-            "buy_count": buy_result.get("buy_count", 0),
-            "total_price": best.get("total_price"),
-            "leftover_score": best.get("leftover_score"),
-            "adjusted_leftover_score": best.get("adjusted_leftover_score"),
-            "leftover_summary": best.get("leftover_summary"),
-            "shopping_selections": [
-                _format_shopping_selection(s) for s in best.get("selections") or []
-            ],
-            "evaluated_count": picked.get("evaluated_count"),
-            "failed_ingredients": best.get("failed_ingredients"),
-            "skipped_unparsable": best.get("skipped_unparsable"),
-        },
-    )
+    buy_list = buy_result.get("buy_list") or []
+    return {
+        "stage": "complete",
+        "meal_tray": meal_tray,
+        "recommendation_reason": _build_recommendation_reason(
+            meal_tray=meal_tray,
+            from_fridge=from_fridge,
+            shared_ingredients=best.get("shared_ingredients"),
+            buy_count=len(buy_list),
+            total_price=best.get("total_price"),
+            leftover_score=best.get("leftover_score"),
+            leftover_summary=best.get("leftover_summary"),
+            evaluated_count=picked.get("evaluated_count"),
+            query=query,
+            fridge_items=fridge_items,
+        ),
+        "recipe_ids": recipe_ids,
+        "menu_ingredients": _format_menu_ingredients(recipe_rows),
+        "shared_ingredients": best.get("shared_ingredients", []),
+        "from_fridge": from_fridge,
+        "assumed_at_home": buy_result.get("assumed_at_home") or best.get(
+            "assumed_at_home", []
+        ),
+        "buy_list": buy_list,
+        "total_price": best.get("total_price"),
+        "leftover_score": best.get("leftover_score"),
+        "leftover_summary": best.get("leftover_summary"),
+        "shopping_selections": [
+            _format_shopping_selection(s) for s in best.get("selections") or []
+        ],
+        "evaluated_count": picked.get("evaluated_count"),
+        "failed_ingredients": best.get("failed_ingredients"),
+        "skipped_unparsable": best.get("skipped_unparsable"),
+    }
