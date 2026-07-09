@@ -8,8 +8,13 @@ from itertools import product as iter_product
 from app.config.ingredient_unit_defaults import normalize_need_to_mass
 from app.config.pantry_defaults import is_pantry_ingredient, normalize_missing_pantry
 from app.parser.ingredient_parser import parse_recipe_ingredient, parse_servings
+from app.cache.recipe_engagement import recipe_inq_cnt, sort_recipes_by_inq
 from app.parser.product_parser import effective_price
-from app.services.ingredient_matcher import ingredients_match
+from app.services.ingredient_matcher import (
+    fridge_ingredient_names,
+    ingredients_match,
+    recipe_fridge_overlap,
+)
 
 SOUP_CATEGORIES = {"국&찌개"}
 MAIN_CATEGORIES = {"일품"}
@@ -81,6 +86,38 @@ def recipe_requires_rice(recipe: dict, cache, *, missing_pantry: set[str] | None
         if is_rice_staple(ing_name):
             return True
     return False
+
+def _recipe_ingredient_names(recipe: dict, cache) -> set[str]:
+    if recipe.get("ingredients"):
+        return {
+            ingredient_key(row)
+            for row in recipe_display_ingredients(recipe)
+        }
+    rid = recipe.get("recipe_id")
+    return cache.get_ingredient_names(rid) if rid else set()
+
+
+def _fridge_overlap_count(recipe: dict, fridge_items: list[dict], cache) -> int:
+    if not fridge_items:
+        return 0
+    return len(recipe_fridge_overlap(_recipe_ingredient_names(recipe, cache), fridge_items))
+
+
+def _sort_by_fridge_then_inq(
+    recipes: list[dict],
+    fridge_items: list[dict],
+    cache,
+) -> list[dict]:
+    return sorted(
+        recipes,
+        key=lambda row: (
+            _fridge_overlap_count(row, fridge_items, cache),
+            recipe_inq_cnt(row),
+            row.get("name") or "",
+        ),
+        reverse=True,
+    )
+
 
 def recipe_display_ingredients(recipe: dict) -> list[dict]:
     return list(recipe.get("ingredients") or [])
@@ -537,8 +574,11 @@ def pick_best_tray_by_shopping(
     cache=None,
 ) -> dict:
     from app.cache.startup_cache import get_cache
+    from app.services.ingredient_matcher import normalize_fridge_items
 
     cache = cache or get_cache()
+    fridge_items = normalize_fridge_items(fridge_items)
+    require_fridge = bool(fridge_items)
     if not trays:
         return {"error": "no_tray_candidates"}
 
@@ -559,6 +599,8 @@ def pick_best_tray_by_shopping(
         )
         if sim.get("error"):
             continue
+        if require_fridge and not sim.get("from_fridge"):
+            continue
         evaluations.append(
             {
                 **sim,
@@ -569,10 +611,16 @@ def pick_best_tray_by_shopping(
         )
 
     if not evaluations:
+        if require_fridge:
+            return {
+                "error": "no_fridge_tray_evaluated",
+                "note": "냉장고 재료를 쓰는 밥상 조합을 찾지 못했습니다.",
+            }
         return {"error": "no_tray_evaluated"}
 
     evaluations.sort(
         key=lambda row: (
+            -len(row.get("from_fridge") or []) if require_fridge else 0,
             row["adjusted_leftover_score"],
             row["leftover_score"],
             row.get("unknown_package_count", 99),
@@ -665,10 +713,19 @@ def propose_trays(
     cache = cache or get_cache()
 
     pool = {r["recipe_id"]: r for r in recipes if r.get("recipe_id")}
-    for recipe in cache.get_recipes():
-        rid = recipe["recipe_id"]
-        if rid not in pool:
-            pool[rid] = recipe
+    if fridge_items:
+        for recipe in cache.get_recipes():
+            rid = recipe["recipe_id"]
+            if rid in pool:
+                continue
+            names = cache.get_ingredient_names(rid)
+            if recipe_fridge_overlap(names, fridge_items):
+                pool[rid] = recipe
+    else:
+        for recipe in cache.get_recipes():
+            rid = recipe["recipe_id"]
+            if rid not in pool:
+                pool[rid] = recipe
 
     soups = [r for r in pool.values() if r.get("category") in SOUP_CATEGORIES]
     mains = [
@@ -681,6 +738,10 @@ def propose_trays(
 
     if soup_recipe_id is not None:
         soups = [r for r in soups if r["recipe_id"] == soup_recipe_id]
+    elif fridge_items:
+        soups = _sort_by_fridge_then_inq(soups, fridge_items, cache)
+        mains = _sort_by_fridge_then_inq(mains, fridge_items, cache)
+        sides = _sort_by_fridge_then_inq(sides, fridge_items, cache)
     if not soups or not mains or not sides:
         return []
 
@@ -697,13 +758,29 @@ def propose_trays(
         scored = []
         for recipe in candidates:
             overlap = len(_buyable_names(recipe) & anchor_names)
-            scored.append((overlap, recipe))
-        scored.sort(key=lambda item: (-item[0], item[1].get("name") or ""))
-        return [recipe for _, recipe in scored]
+            fridge_hits = _fridge_overlap_count(recipe, fridge_items, cache) if fridge_items else 0
+            scored.append((fridge_hits, overlap, recipe))
+        scored.sort(
+            key=lambda item: (
+                -item[0],
+                -item[1],
+                -recipe_inq_cnt(item[2]),
+                item[2].get("name") or "",
+            )
+        )
+        return [recipe for _, _, recipe in scored]
 
     anchor_names: set[str] = set()
     if soups:
         anchor_names = _buyable_names(soups[0])
+        if fridge_items:
+            fridge_names = fridge_ingredient_names(fridge_items)
+            soup_ings = _recipe_ingredient_names(soups[0], cache)
+            anchor_names |= {
+                name
+                for name in soup_ings
+                if any(ingredients_match(name, fridge) for fridge in fridge_names)
+            }
 
     soup_opts = soups[:5]
     main_opts = _rank_by_shared(mains, anchor_names)[:12]
@@ -744,6 +821,8 @@ def propose_trays(
             fridge_items=fridge_items,
             missing_pantry=missing_pantry,
         )
+        if fridge_items and not agg["from_fridge"]:
+            continue
         name_sets = []
         for recipe in tray_recipes:
             names = {
@@ -754,7 +833,7 @@ def propose_trays(
             name_sets.append(names)
         shared = set.intersection(*name_sets) if name_sets else set()
 
-        score = agg["buy_count"] * 10 - len(shared) * 8 - len(agg["from_fridge"])
+        score = agg["buy_count"] * 10 - len(shared) * 8 - len(agg["from_fridge"]) * 25
         candidates.append(
             {
                 "tray": {

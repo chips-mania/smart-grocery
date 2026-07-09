@@ -35,8 +35,8 @@ AI_REVIEW = {
         "If weak, re-run plan_one_meal with different query or soup_recipe_id."
     ),
     "plan_one_meal": (
-        "Present full JSON sections in Korean. If menu mismatches intent, re-run with query "
-        "or soup_recipe_id — do not fall back to long manual tool chains."
+        "Present full JSON in Korean. from_fridge must be non-empty when user gave fridge_items. "
+        "If empty or menu mismatches, re-run with query matching fridge ingredient (e.g. 감자)."
     ),
     "kurly_search": (
         "Show product name and price. For full meal use plan_one_meal instead."

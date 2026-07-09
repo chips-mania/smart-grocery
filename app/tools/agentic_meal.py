@@ -454,22 +454,35 @@ def _plan_one_meal_impl(
     get_cache()
     tray_candidates = max(3, min(int(tray_candidates), 8))
     max_evaluate = max(1, min(int(max_evaluate), 5))
+    search_limit = max(tray_candidates, 12) if fridge_items and not (query or "").strip() else tray_candidates
     found = search_recipes(
         query=query,
         fridge_items=fridge_items,
-        limit=tray_candidates,
+        limit=search_limit,
     )
     recipes = found.get("recipes") or []
     if not recipes and not soup_recipe_id:
         return {"error": "no_recipes", "query": query}
 
-    if soup_recipe_id is None and query and recipes:
+    cache = get_cache()
+    if soup_recipe_id is None and recipes:
         soup_candidates = [
             recipe for recipe in recipes if recipe.get("category") in SOUP_CATEGORIES
         ]
+        if not soup_candidates and fridge_items:
+            from app.services.ingredient_matcher import recipe_fridge_overlap
+
+            for recipe in cache.get_recipes():
+                if recipe.get("category") not in SOUP_CATEGORIES:
+                    continue
+                if recipe_fridge_overlap(
+                    cache.get_ingredient_names(recipe["recipe_id"]),
+                    fridge_items,
+                ):
+                    soup_candidates.append(recipe)
         if soup_candidates:
             soup_recipe_id = sort_recipes_by_inq(soup_candidates)[0]["recipe_id"]
-        else:
+        elif query:
             soup_recipe_id = sort_recipes_by_inq(recipes)[0]["recipe_id"]
 
     trays_result = propose_meal_trays(
@@ -510,7 +523,10 @@ def _plan_one_meal_impl(
         "plan_one_meal",
         {
             "stage": "complete",
-            "objective": "Minimize leftover_score after joint tray shopping simulation.",
+            "objective": (
+                "Minimize leftover_score after joint tray shopping simulation; "
+                "must use fridge_items when provided."
+            ),
             "meal_tray": {
                 "soup": (tray.get("soup") or {}).get("name"),
                 "main": (tray.get("main") or {}).get("name"),
